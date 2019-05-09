@@ -1,0 +1,1434 @@
+ResponseID	Do you have a family history of mental illness	Have you had a mental health disorder in the past	Do you currently have a mental health disorder	Have you been diagnosed with a mental health condition by a medical professional	What is your age	What is your gender 	Age Group	What country do you live in	What US state or territory do you live in	Do you work remotely	How many employees does your company or organization have
+r00000	No	Yes	No	TRUE	39	Male	36-40	United Kingdom		Sometimes	26-100
+r00001	Yes	Yes	Yes	TRUE	29	Male	26-30	United States of America	Illinois	Never	6-25
+r00002	No	Maybe	No	FALSE	38	Male	36-40	United Kingdom		Always	6-25
+r00003	No	Yes	Yes	TRUE	43	Male	41-45	United Kingdom		Sometimes	
+r00004	Yes	Yes	Yes	TRUE	43	Female	41-45	United States of America	Illinois	Sometimes	6-25
+r00005	No	No	Yes	FALSE	42	Male	41-45	United Kingdom		Sometimes	More than 1000
+r00006	No	No	No	FALSE	30	Male	26-30	United States of America	Tennessee	Sometimes	26-100
+r00007	Yes	Yes	Yes	TRUE	37	Female	36-40	United States of America	Virginia	Always	More than 1000
+r00008	Yes	Yes	Yes	TRUE	44	Female	41-45	United States of America	California	Sometimes	26-100
+r00009	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	Kentucky	Always	
+r00010	I don't know	Yes	Yes	TRUE	28	Male	26-30	United States of America	Oregon	Never	26-100
+r00011	Yes	Yes	Yes	TRUE	34	Male	31-35	United States of America	Pennsylvania	Sometimes	100-500
+r00012	Yes	Yes	Yes	TRUE	30	Female	26-30	United States of America	New Jersey	Always	100-500
+r00013	No	Maybe	Maybe	FALSE	44	Male	41-45	Canada		Sometimes	100-500
+r00014	Yes	Yes	Yes	TRUE	35	Male	31-35	United States of America	Georgia	Always	100-500
+r00015	Yes	Yes	Yes	TRUE	52	Male	51-55	United States of America	Oregon	Sometimes	100-500
+r00016	Yes	Yes	Yes	TRUE	32	Female	31-35	Canada		Always	26-100
+r00017	No	No	No	FALSE	34	Male	31-35	United Kingdom		Never	500-1000
+r00018	I don't know	Yes	Yes	TRUE	25	Female	20-25	United States of America	Washington	Always	
+r00019	Yes	Yes	Yes	TRUE	31	Male	31-35	United States of America	New Jersey	Sometimes	100-500
+r00020	Yes	Maybe	No	FALSE	26	Male	26-30	United States of America	New York	Sometimes	6-25
+r00021	No	No	No	FALSE	35	Male	31-35	United States of America	Indiana	Never	More than 1000
+r00022	I don't know	Maybe	No	FALSE	25	Male	20-25	Germany		Sometimes	26-100
+r00023	Yes	Yes	No	TRUE	33	Male	31-35	Canada		Sometimes	1-5
+r00024	No	No	No	FALSE	38	Male	36-40	United States of America	New York	Sometimes	
+r00025	No	No	No	FALSE	42	Male	41-45	Germany		Never	100-500
+r00026	I don't know	Yes	Yes	TRUE	27	Male	26-30	Netherlands		Sometimes	26-100
+r00027	No	No	Maybe	FALSE	35	Male	31-35	Germany		Never	100-500
+r00028	Yes	Yes	Maybe	FALSE	34	Female	31-35	United Kingdom		Never	500-1000
+r00029	Yes	Yes	Yes	TRUE	32	Trans/Other	31-35	United Kingdom		Never	6-25
+r00030	Yes	Yes	Yes	TRUE	32	Trans/Other	31-35	Germany		Never	100-500
+r00031	No	Yes	Yes	TRUE	30	Male	26-30	United States of America	New York	Sometimes	100-500
+r00032	I don't know	Yes	Maybe	FALSE	31	Male	31-35	United States of America	Minnesota	Never	More than 1000
+r00033	No	No	No	FALSE	37	Male	36-40	Czech Republic		Sometimes	
+r00034	No	Yes	Yes	FALSE	36	Male	36-40	United Kingdom		Sometimes	26-100
+r00035	No	No	No	FALSE	33	Male	31-35	Germany		Never	100-500
+r00036	Yes	Yes	Yes	TRUE	44	Male	41-45	United States of America	Washington	Always	26-100
+r00037	No	No	Maybe	FALSE	29	Male	26-30	United Kingdom		Never	100-500
+r00038	Yes	Yes	Maybe	TRUE	29	Male	26-30	United Kingdom		Sometimes	100-500
+r00039	I don't know	No	No	FALSE	44	Male	41-45	Canada		Always	More than 1000
+r00040	Yes	Yes	Yes	FALSE	34	Male	31-35	United States of America	Georgia	Sometimes	
+r00041	I don't know	Yes	Yes	FALSE	40	Male	36-40	United States of America	Minnesota	Always	100-500
+r00042	Yes	Yes	Yes	FALSE	46	Female	46-50	Netherlands		Never	More than 1000
+r00043	Yes	Yes	Yes	FALSE	28	Male	26-30	Lithuania		Sometimes	
+r00044	No	No	No	FALSE	41	Male	41-45	United States of America	Georgia	Never	More than 1000
+r00045	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	Kentucky	Sometimes	6-25
+r00046	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	West Virginia	Sometimes	
+r00047	I don't know	Maybe	Maybe	FALSE	45	Male	41-45	United States of America	Virginia	Sometimes	6-25
+r00048	Yes	Yes	Maybe	TRUE	43	Male	41-45	United Kingdom		Sometimes	
+r00049	No	Maybe	Yes	TRUE	37	Female	36-40	United States of America	California	Always	6-25
+r00050	I don't know	Yes	Yes	TRUE	37	Male	36-40	Australia		Never	26-100
+r00051	Yes	No	No	FALSE	27	Male	26-30	United States of America	California	Sometimes	6-25
+r00052	No	No	No	FALSE	31	Male	31-35	Netherlands		Sometimes	
+r00053	Yes	Yes	Yes	TRUE	36	Male	36-40	United States of America	California	Sometimes	More than 1000
+r00054	No	Maybe	Maybe	TRUE	34	Male	31-35	United States of America	Florida	Always	500-1000
+r00055	No	No	No	FALSE	31	Female	31-35	United States of America	Massachusetts	Sometimes	More than 1000
+r00056	Yes	Maybe	Maybe	TRUE	30	Male	26-30	United States of America	Oregon	Never	26-100
+r00057	Yes	Maybe	Maybe	FALSE	32	Male	31-35	Canada		Never	100-500
+r00058	I don't know	Maybe	Maybe	FALSE	40	Female	36-40	United States of America	North Dakota	Sometimes	6-25
+r00059	I don't know	No	No	FALSE	40	Male	36-40	United States of America	Tennessee	Sometimes	100-500
+r00060	I don't know	No	Maybe	FALSE	41	Male	41-45	France		Sometimes	More than 1000
+r00061	No	Yes	Maybe	TRUE	27	Male	26-30	United Kingdom		Never	26-100
+r00062	No	No	No	FALSE	30	Male	26-30	United States of America	New York	Sometimes	26-100
+r00063	I don't know	Maybe	Maybe	FALSE	29	Male	26-30	Venezuela		Always	
+r00064	No	No	No	FALSE	38	Male	36-40	United Kingdom		Sometimes	
+r00065	No	No	No	FALSE	35	Male	31-35	Netherlands		Sometimes	
+r00066	Yes	Yes	Yes	TRUE	35	Female	31-35	United States of America	Indiana	Never	6-25
+r00067	Yes	Yes	Yes	TRUE	29	Male	26-30	United States of America	Texas	Always	More than 1000
+r00068	Yes	Maybe	No	FALSE	28	Male	26-30	United States of America	New York	Never	100-500
+r00069	I don't know	Yes	Maybe	TRUE	27	Male	26-30	Netherlands		Sometimes	26-100
+r00070	No	Yes	No	FALSE	39	Male	36-40	Poland		Sometimes	
+r00071	No	No	No	FALSE	28	Male	26-30	Belgium		Sometimes	100-500
+r00072	Yes	No	No	FALSE	46	Male	46-50	United States of America	Texas	Sometimes	6-25
+r00073	No	Yes	No	TRUE	40	Male	36-40	Netherlands		Sometimes	1-5
+r00074	Yes	Maybe	Maybe	FALSE	37	Male	36-40	United States of America	Tennessee	Always	26-100
+r00075	Yes	No	No	FALSE	41	Male	41-45	Netherlands		Sometimes	26-100
+r00076	I don't know	Yes	Yes	FALSE	19	Male	Under 20	France		Never	
+r00077	No	No	No	FALSE	38	Female	36-40	Netherlands		Never	6-25
+r00078	No	No	No	FALSE	33	Male	31-35	United States of America	Maryland	Sometimes	26-100
+r00079	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	Wisconsin	Always	26-100
+r00080	No	No	No	FALSE	21	Male	20-25	United Kingdom		Never	1-5
+r00081	Yes	Yes	Yes	FALSE	36	Male	36-40	Brazil		Never	1-5
+r00082	Yes	Yes	Yes	TRUE	39	Male	36-40	Canada		Sometimes	
+r00083	No	No	No	FALSE	35	Male	31-35	United States of America	Illinois	Sometimes	26-100
+r00084	Yes	Yes	Yes	TRUE	36	Male	36-40	France		Sometimes	
+r00085	No	Maybe	Maybe	FALSE	45	Male	41-45	United States of America	Michigan	Never	6-25
+r00086	No	Maybe	Maybe	FALSE	41	Male	41-45	Canada		Never	26-100
+r00087	I don't know	Yes	Yes	TRUE	35	Male	31-35	United Kingdom		Sometimes	26-100
+r00088	I don't know	Maybe	Maybe	TRUE	30	Male	26-30	United States of America	Texas	Sometimes	
+r00089	Yes	Yes	Yes	TRUE	24	Female	20-25	United States of America	Illinois	Sometimes	26-100
+r00090	I don't know	Yes	No	TRUE	33	Male	31-35	Brazil		Never	100-500
+r00091	Yes	Yes	Maybe	TRUE	35	Male	31-35	United States of America	Washington	Sometimes	More than 1000
+r00092	No	No	Yes	FALSE	26	Male	26-30	United Kingdom		Sometimes	6-25
+r00093	No	No	No	FALSE	17	Male	Under 20	Brazil		Always	6-25
+r00094	No	Yes	Yes	TRUE	29	Female	26-30	United States of America	North Dakota	Sometimes	6-25
+r00095	Yes	Yes	Yes	TRUE	26	Male	26-30	United States of America	California	Sometimes	100-500
+r00096	No	No	No	FALSE	36	Female	36-40	United States of America	Vermont	Always	26-100
+r00097	I don't know	No	No	FALSE	46	Male	46-50	United States of America	Illinois	Sometimes	26-100
+r00098	Yes	Yes	Yes	FALSE	39	Male	36-40	Netherlands		Sometimes	
+r00099	Yes	Yes	Yes	TRUE	28	Female	26-30	United States of America	California	Sometimes	100-500
+r00100	No	No	No	FALSE	40	Male	36-40	United States of America	Washington	Sometimes	500-1000
+r00101	I don't know	Yes	Yes	TRUE	23	Male	20-25	United States of America	Pennsylvania	Sometimes	100-500
+r00102	Yes	No	No	FALSE	30	Male	26-30	United States of America	North Carolina	Sometimes	6-25
+r00103	Yes	Maybe	No	FALSE	28	Female	26-30	United States of America	Illinois	Sometimes	26-100
+r00104	I don't know	Maybe	Maybe	FALSE	27	Male	26-30	Netherlands		Never	26-100
+r00105	No	Yes	Maybe	TRUE	31	Male	31-35	United States of America	Indiana	Always	
+r00106	Yes	Yes	Maybe	FALSE	39	Female	36-40	United States of America	North Carolina	Never	26-100
+r00107	Yes	No	Yes	TRUE	34	Female	31-35	United States of America	New York	Always	More than 1000
+r00108	No	Yes	Yes	TRUE	30	Male	26-30	United States of America	North Carolina	Sometimes	6-25
+r00109	I don't know	Yes	Yes	TRUE	30	Male	26-30	Denmark		Never	
+r00110	No	No	Maybe	FALSE	31	Male	31-35	United States of America	Indiana	Sometimes	100-500
+r00111	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	California	Always	26-100
+r00112	Yes	Maybe	Maybe	FALSE	32	Male	31-35	United States of America	Kansas	Sometimes	More than 1000
+r00113	Yes	No	No	FALSE	22	Male	20-25	Czech Republic		Sometimes	
+r00114	Yes	Yes	Yes	TRUE	37	Female	36-40	Belgium		Always	
+r00115	No	No	No	FALSE	51	Male	51-55	United States of America	Indiana	Sometimes	26-100
+r00116	Yes	Yes	Yes	TRUE	26	Male	26-30	United States of America	Tennessee	Sometimes	26-100
+r00117	Yes	Yes	No	TRUE	41	Female	41-45	United States of America	Minnesota	Sometimes	26-100
+r00118	Yes	Yes	Yes	TRUE	39	Female	36-40	United States of America	District of Columbia	Sometimes	100-500
+r00119	Yes	Yes	Maybe	TRUE	43	Male	41-45	United States of America	Tennessee	Sometimes	6-25
+r00120	Yes	No	Maybe	FALSE	30	Male	26-30	United Kingdom		Sometimes	500-1000
+r00121	I don't know	No	No	FALSE	24	Female	20-25	United States of America	Illinois	Sometimes	26-100
+r00122	No	Yes	Yes	TRUE	30	Male	26-30	Netherlands		Sometimes	
+r00123	Yes	Yes	Yes	TRUE	28	Female	26-30	Germany		Sometimes	26-100
+r00124	I don't know	Yes	Yes	TRUE	48	Female	46-50	United States of America	Washington	Sometimes	
+r00125	Yes	Maybe	Maybe	FALSE	55	Female	51-55	United States of America	Nevada	Always	
+r00126	I don't know	Maybe	Maybe	FALSE	36	Female	36-40	United States of America	Indiana	Sometimes	1-5
+r00127	No	No	No	FALSE	38	Male	36-40	Netherlands		Sometimes	
+r00128	No	No	No	FALSE	34	Male	31-35	France		Sometimes	100-500
+r00129	No	No	No	FALSE	44	Female	41-45	United States of America	Illinois	Sometimes	26-100
+r00130	I don't know	Yes	Maybe	TRUE	45	Male	41-45	United States of America	Georgia	Sometimes	More than 1000
+r00131	I don't know	Yes	Maybe	TRUE	45	Male	41-45	United States of America	Oregon	Sometimes	6-25
+r00132	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	Utah	Sometimes	500-1000
+r00133	I don't know	Yes	Yes	TRUE	34	Male	31-35	United States of America	Tennessee	Sometimes	More than 1000
+r00134	Yes	No	No	FALSE	37	Male	36-40	United States of America	Connecticut	Sometimes	More than 1000
+r00135	No	No	No	FALSE	38	Male	36-40	United States of America	Tennessee	Sometimes	More than 1000
+r00136	No	No	Maybe	TRUE	31	Male	31-35	United States of America	Virginia	Sometimes	26-100
+r00137	No	No	No	FALSE	33	Male	31-35	United States of America	Florida	Always	26-100
+r00138	I don't know	Yes	Yes	TRUE	29	Female	26-30	United States of America	New York	Sometimes	100-500
+r00139	Yes	Yes	Yes	TRUE	35	Male	31-35	United States of America	California	Sometimes	100-500
+r00140	Yes	Yes	Yes	TRUE	42	Trans/Other	41-45	Canada		Always	1-5
+r00141	I don't know	No	No	FALSE	26	Female	26-30	United States of America	Illinois	Sometimes	26-100
+r00142	Yes	Maybe	Maybe	TRUE	36	Female	36-40	United States of America	Maryland	Always	500-1000
+r00143	Yes	Yes	Yes	TRUE	21	Male	20-25	United Kingdom		Never	26-100
+r00144	I don't know	Yes	Yes	TRUE	34	Female	31-35	United States of America	Washington	Sometimes	26-100
+r00145	I don't know	Maybe	Maybe	FALSE	40	Male	36-40	Germany		Always	
+r00146	No	Yes	Yes	TRUE	35	Male	31-35	United States of America	Indiana	Sometimes	26-100
+r00147	No	No	No	FALSE	44	Male	41-45	United States of America	Oregon	Sometimes	6-25
+r00148	Yes	Yes	No	TRUE	35	Trans/Other	31-35	Canada		Sometimes	6-25
+r00149	No	No	No	FALSE	45	Male	41-45	United States of America	Michigan	Sometimes	More than 1000
+r00150	No	Yes	Yes	TRUE	42	Male	41-45	United States of America	Illinois	Sometimes	More than 1000
+r00151	I don't know	Yes	Yes	TRUE	40	Male	36-40	United States of America	Colorado	Always	
+r00152	No	Yes	No	TRUE	50	Female	46-50	United States of America	Michigan	Always	
+r00153	Yes	Maybe	Maybe	FALSE	36	Male	36-40	United States of America	Illinois	Always	100-500
+r00154	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Minnesota	Always	
+r00155	I don't know	Maybe	No	FALSE	29	Male	26-30	United States of America	Oregon	Always	26-100
+r00156	No	No	No	FALSE	37	Male	36-40	United States of America	California	Never	100-500
+r00157	I don't know	Yes	Yes	TRUE	31	Male	31-35	United States of America	California	Sometimes	26-100
+r00158	No	No	No	FALSE	42	Male	41-45	Canada		Always	More than 1000
+r00159	No	Maybe	No	FALSE	25	Male	20-25	United States of America	Indiana	Sometimes	500-1000
+r00160	Yes	Yes	Yes	TRUE	27	Male	26-30	United States of America	California	Sometimes	6-25
+r00161	No	Yes	Yes	TRUE	41	Female	41-45	United States of America	Ohio	Never	More than 1000
+r00162	No	Yes	Yes	FALSE	41	Female	41-45	United States of America	California	Sometimes	100-500
+r00163	I don't know	No	No	FALSE	55	Female	51-55	United States of America	California	Never	More than 1000
+r00164	No	Yes	Yes	FALSE	21	Male	20-25	United States of America	California	Never	More than 1000
+r00165	No	No	No	FALSE	37	Male	36-40	Netherlands		Never	More than 1000
+r00166	No	No	No	FALSE	34	Female	31-35	Netherlands		Sometimes	More than 1000
+r00167	I don't know	No	Maybe	FALSE	40	Male	36-40	United Kingdom		Never	More than 1000
+r00168	I don't know	Maybe	Maybe	FALSE	25	Male	20-25	Netherlands		Always	
+r00169	No	No	Maybe	FALSE	36	Male	36-40	Germany		Sometimes	More than 1000
+r00170	No	No	Maybe	FALSE	25	Male	20-25	Germany		Never	26-100
+r00171	No	No	No	FALSE	35	Male	31-35	United States of America	Florida	Always	100-500
+r00172	I don't know	Maybe	No	FALSE	37	Male	36-40	United States of America	North Carolina	Always	6-25
+r00173	I don't know	Maybe	Maybe	FALSE	45	Male	41-45	United States of America	Ohio	Sometimes	More than 1000
+r00174	Yes	Yes	Yes	TRUE	26	Male	26-30	United States of America	Oregon	Never	6-25
+r00175	No	No	No	FALSE	23	Male	20-25	United States of America	Illinois	Sometimes	26-100
+r00176	Yes	Yes	Yes	TRUE	22	Female	20-25	United States of America	Oregon	Sometimes	26-100
+r00177	Yes	Yes	Yes	TRUE	46	Female	46-50	United States of America	Illinois	Always	26-100
+r00178	No	No	No	FALSE	31	Male	31-35	United Kingdom		Sometimes	6-25
+r00179	Yes	Maybe	Yes	TRUE	27	Male	26-30	United States of America	Virginia	Always	100-500
+r00180	I don't know	Maybe	No	FALSE	37	Male	36-40	United Kingdom		Sometimes	6-25
+r00181	No	No	No	FALSE	37	Male	36-40	United Kingdom		Never	100-500
+r00182	No	Yes	Maybe	TRUE	26	Trans/Other	26-30	Netherlands		Sometimes	1-5
+r00183	Yes	No	No	FALSE	23	Male	20-25	Netherlands		Never	500-1000
+r00184	Yes	Yes	Yes	TRUE	40	Male	36-40	United States of America	Ohio	Never	26-100
+r00185	No	No	No	FALSE	29	Male	26-30	Denmark		Sometimes	1-5
+r00186	I don't know	Yes	Yes	TRUE	37	Male	36-40	United States of America	Oregon	Sometimes	100-500
+r00187	Yes	Maybe	No	FALSE	34	Female	31-35	United States of America	California	Never	100-500
+r00188	No	Yes	Yes	TRUE	40	Male	36-40	United States of America	Iowa	Sometimes	More than 1000
+r00189	No	Yes	Maybe	TRUE	39	Male	36-40	United States of America	California	Sometimes	500-1000
+r00190	Yes	Yes	Yes	TRUE	28	Male	26-30	United States of America	Washington	Always	500-1000
+r00191	No	Maybe	Maybe	FALSE	28	Male	26-30	Belgium		Sometimes	
+r00192	Yes	No	No	FALSE	27	Male	26-30	Germany		Sometimes	26-100
+r00193	No	Maybe	Maybe	FALSE	48	Male	46-50	United Kingdom		Sometimes	
+r00194	No	Yes	Yes	TRUE	49	Female	46-50	United States of America	Connecticut	Sometimes	More than 1000
+r00195	I don't know	Yes	Yes	TRUE	35	Male	31-35	United Kingdom		Never	26-100
+r00196	Yes	Yes	Yes	TRUE	35	Male	31-35	Sweden		Sometimes	100-500
+r00197	Yes	Yes	Yes	TRUE	38	Male	36-40	United Kingdom		Always	
+r00198	Yes	Yes	No	TRUE	32	Male	31-35	United States of America	California	Sometimes	500-1000
+r00199	Yes	Yes	Yes	TRUE	42	Male	41-45	United States of America	Ohio	Sometimes	More than 1000
+r00200	Yes	Yes	Maybe	FALSE	33	Female	31-35	United States of America	Texas	Always	100-500
+r00201	No	No	No	FALSE	35	Male	31-35	United Kingdom		Always	26-100
+r00202	No	Maybe	Maybe	FALSE	24	Male	20-25	Russia		Sometimes	500-1000
+r00203	Yes	Yes	Yes	TRUE	29	Trans/Other	26-30	United States of America	California	Sometimes	500-1000
+r00204	No	Yes	Maybe	FALSE	29	Male	26-30	United States of America	Minnesota	Always	100-500
+r00205	No	No	No	FALSE	24	Male	20-25	United Kingdom		Sometimes	6-25
+r00206	Yes	Maybe	No	FALSE	30	Male	26-30	Sweden		Always	500-1000
+r00207	No	Yes	Yes	TRUE	30	Male	26-30	United States of America	Colorado	Always	26-100
+r00208	Yes	Yes	Yes	TRUE	44	Male	41-45	United States of America	Indiana	Always	6-25
+r00209	No	No	No	FALSE	37	Male	36-40	United Kingdom		Always	100-500
+r00210	No	No	No	FALSE	28	Male	26-30	Germany		Sometimes	500-1000
+r00211	Yes	Yes	No	TRUE	42	Male	41-45	United States of America	South Dakota	Always	100-500
+r00212	Yes	Yes	Yes	TRUE	30	Female	26-30	United Kingdom		Sometimes	1-5
+r00213	No	Maybe	Maybe	FALSE	36	Male	36-40	Russia		Sometimes	100-500
+r00214	No	No	No	FALSE	30	Male	26-30	Russia		Sometimes	500-1000
+r00215	No	No	No	FALSE	29	Male	26-30	United States of America	Nevada	Always	6-25
+r00216	No	No	No	FALSE	25	Male	20-25	United States of America	California	Sometimes	500-1000
+r00217	No	No	No	FALSE	25	Male	20-25	Belgium		Sometimes	26-100
+r00218	No	No	No	FALSE	24	Male	20-25	Russia		Never	500-1000
+r00219	No	Yes	Yes	FALSE	25	Male	20-25	Russia		Sometimes	More than 1000
+r00220	I don't know	Yes	Yes	TRUE	31	Male	31-35	Denmark		Never	26-100
+r00221	Yes	No	No	FALSE	37	Male	36-40	Canada		Sometimes	26-100
+r00222	No	No	No	FALSE	35	Male	31-35	United States of America	California	Never	100-500
+r00223	Yes	Yes	No	TRUE	26	Female	26-30	Spain		Sometimes	6-25
+r00224	I don't know	No	No	FALSE	31	Male	31-35	United Kingdom		Always	100-500
+r00225	Yes	Maybe	No	FALSE	29	Female	26-30	United States of America	California	Always	500-1000
+r00226	Yes	Yes	No	TRUE	33	Male	31-35	France		Sometimes	26-100
+r00227	No	No	No	FALSE	30	Male	26-30	India		Always	26-100
+r00228	I don't know	Yes	Maybe	FALSE	30	Male	26-30	United States of America	Florida	Sometimes	26-100
+r00229	Yes	Yes	Yes	TRUE	29	Female	26-30	United States of America	California	Never	100-500
+r00230	I don't know	Yes	Yes	TRUE	25	Female	20-25	United States of America	California	Sometimes	26-100
+r00231	Yes	Yes	No	FALSE	27	Male	26-30	United States of America	Nebraska	Never	More than 1000
+r00232	No	No	No	FALSE	26	Male	26-30	Germany		Sometimes	500-1000
+r00233	Yes	No	No	FALSE	38	Female	36-40	United States of America	Maine	Always	500-1000
+r00234	Yes	Yes	Yes	TRUE	49	Male	46-50	United States of America	Missouri	Sometimes	More than 1000
+r00235	Yes	No	No	FALSE	30	Male	26-30	United States of America	Arizona	Sometimes	26-100
+r00236	I don't know	No	Maybe	FALSE	34	Male	31-35	France		Sometimes	
+r00237	No	No	No	FALSE	31	Male	31-35	Russia		Never	100-500
+r00238	Yes	Yes	Maybe	TRUE	29	Male	26-30	United States of America	California	Sometimes	
+r00239	No	No	No	FALSE	31	Male	31-35	Germany		Sometimes	100-500
+r00240	I don't know	Maybe	Maybe	FALSE	34	Male	31-35	Germany		Never	100-500
+r00241	No	Yes	No	FALSE	28	Male	26-30	United States of America	Oklahoma	Sometimes	6-25
+r00242	Yes	Yes	No	TRUE	35	Female	31-35	United Kingdom		Always	
+r00243	I don't know	No	No	FALSE	27	Male	26-30	Germany		Always	500-1000
+r00244	No	Maybe	No	FALSE	33	Male	31-35	Germany		Sometimes	
+r00245	I don't know	Maybe	Maybe	TRUE	37	Female	36-40	United States of America	New York	Sometimes	6-25
+r00246	No	Yes	Yes	TRUE	45	Male	41-45	United Kingdom		Sometimes	More than 1000
+r00247	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Oregon	Always	6-25
+r00248	No	Maybe	No	FALSE	36	Male	36-40	United States of America	Arizona	Never	More than 1000
+r00249	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	California	Never	500-1000
+r00250	Yes	Yes	Yes	TRUE	33	Female	31-35	United States of America	Washington	Sometimes	More than 1000
+r00251	I don't know	Yes	Yes	TRUE	45	Female	41-45	Canada		Always	500-1000
+r00252	Yes	Yes	Yes	TRUE	30	Female	26-30	United States of America	Michigan	Sometimes	26-100
+r00253	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	Michigan	Sometimes	26-100
+r00254	Yes	Yes	Yes	TRUE	29	Male	26-30	United States of America	Illinois	Always	
+r00255	Yes	No	No	FALSE	36	Male	36-40	Mexico		Sometimes	1-5
+r00256	Yes	Yes	Maybe	TRUE	28	Male	26-30	United States of America	Michigan	Never	26-100
+r00257	No	Yes	Yes	TRUE	36	Male	36-40	United States of America	Michigan	Sometimes	26-100
+r00258	Yes	Maybe	Maybe	TRUE	37	Female	36-40	United States of America	California	Sometimes	500-1000
+r00259	Yes	Yes	Maybe	FALSE	29	Male	26-30	United States of America	Michigan	Sometimes	26-100
+r00260	Yes	Yes	Yes	TRUE	25	Male	20-25	United States of America	Michigan	Sometimes	26-100
+r00261	No	No	No	FALSE	34	Female	31-35	United States of America	Michigan	Sometimes	26-100
+r00262	No	No	No	FALSE	37	Male	36-40	Canada		Sometimes	More than 1000
+r00263	Yes	Yes	Yes	TRUE	40	Female	36-40	United States of America	Washington	Sometimes	More than 1000
+r00264	No	Maybe	Maybe	FALSE	32	Male	31-35	United States of America	Texas	Always	100-500
+r00265	No	Maybe	No	FALSE	38	Male	36-40	United Kingdom		Never	26-100
+r00266	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Michigan	Sometimes	26-100
+r00267	Yes	No	No	FALSE	28	Female	26-30	United States of America	Michigan	Sometimes	26-100
+r00268	Yes	Yes	Yes	TRUE	27	Female	26-30	United Kingdom		Sometimes	100-500
+r00269	No	Yes	Yes	TRUE	28	Female	26-30	United States of America	Michigan	Sometimes	26-100
+r00270	Yes	Yes	Yes	TRUE	26	Male	26-30	Germany		Always	6-25
+r00271	Yes	Yes	No	FALSE	40	Male	36-40	United States of America	Michigan	Sometimes	26-100
+r00272	No	Yes	Yes	TRUE	42	Male	41-45	United States of America	Washington	Sometimes	More than 1000
+r00273	I don't know	No	No	FALSE	36	Male	36-40	United States of America	Michigan	Never	26-100
+r00274	Yes	Maybe	Maybe	FALSE	44	Male	41-45	United Kingdom		Never	
+r00275	I don't know	Maybe	Yes	TRUE	24	Male	20-25	United States of America	Michigan	Never	500-1000
+r00276	I don't know	Maybe	Maybe	FALSE	44	Male	41-45	United States of America	Kansas	Never	100-500
+r00277	No	No	Yes	TRUE	31	Male	31-35	United States of America	Washington	Always	More than 1000
+r00278	Yes	Yes	Maybe	FALSE	49	Male	46-50	United States of America	Washington	Sometimes	
+r00279	Yes	No	No	FALSE	27	Female	26-30	United States of America	California	Sometimes	26-100
+r00280	Yes	Maybe	No	FALSE	27	Male	26-30	United States of America	Florida	Always	More than 1000
+r00281	No	Yes	No	TRUE	28	Male	26-30	United States of America	California	Sometimes	100-500
+r00282	Yes	Yes	Maybe	TRUE	20	Female	20-25	United States of America	California	Never	6-25
+r00283	Yes	No	No	FALSE	41	Male	41-45	Germany		Always	
+r00284	I don't know	Yes	Yes	TRUE	38	Male	36-40	Australia		Sometimes	100-500
+r00285	Yes	Yes	Yes	FALSE	29	Male	26-30	United States of America	California	Never	100-500
+r00286	Yes	Yes	Yes	TRUE	44	Female	41-45	United States of America	Oregon	Always	100-500
+r00287	I don't know	No	No	FALSE	31	Male	31-35	United States of America	California	Sometimes	500-1000
+r00288	Yes	Yes	Yes	TRUE	54	Male	51-55	United States of America	Idaho	Sometimes	6-25
+r00289	Yes	No	No	FALSE	33	Male	31-35	Germany		Sometimes	500-1000
+r00290	No	No	No	FALSE	29	Male	26-30	Netherlands		Never	6-25
+r00291	I don't know	Yes	Maybe	TRUE	26	Trans/Other	26-30	United Kingdom		Sometimes	26-100
+r00292	Yes	Maybe	Maybe	FALSE	26	Male	26-30	United Kingdom		Never	26-100
+r00293	I don't know	Maybe	Yes	FALSE	34	Male	31-35	United Kingdom		Sometimes	
+r00294	Yes	Yes	Maybe	TRUE	38	Female	36-40	United States of America	New York	Sometimes	100-500
+r00295	Yes	Yes	Yes	TRUE	30	Male	26-30	United Kingdom		Sometimes	100-500
+r00296	Yes	Yes	Yes	TRUE	34	Male	31-35	United Kingdom		Sometimes	
+r00297	Yes	Yes	Yes	TRUE	47	Female	46-50	Australia		Sometimes	More than 1000
+r00298	Yes	Maybe	No	TRUE	33	Female	31-35	Switzerland		Sometimes	100-500
+r00299	No	No	No	FALSE	22	Male	20-25	United Kingdom		Sometimes	More than 1000
+r00300	I don't know	Yes	Maybe	FALSE	28	Trans/Other	26-30	United Kingdom		Never	6-25
+r00301	Yes	Yes	Yes	TRUE	31	Male	31-35	United Kingdom		Always	500-1000
+r00302	Yes	Yes	Yes	TRUE	24	Trans/Other	20-25	United Kingdom		Sometimes	More than 1000
+r00303	No	Maybe	No	TRUE	56	Male	56-60	Australia		Sometimes	1-5
+r00304	Yes	Yes	Yes	TRUE	57	Female	56-60	Australia		Always	
+r00305	No	No	No	FALSE	39	Male	36-40	Spain		Always	100-500
+r00306	Yes	Yes	No	TRUE	21	Male	20-25	United Kingdom		Never	1-5
+r00307	No	No	No	FALSE	31	Female	31-35	Russia		Sometimes	500-1000
+r00308	No	Yes	Yes	TRUE	63	Male	61-65	Canada		Always	
+r00309	Yes	Yes	Yes	TRUE	46	Male	46-50	Australia		Always	
+r00310	Yes	Yes	Yes	TRUE	32	Female	31-35	United Kingdom		Never	6-25
+r00311	Yes	Yes	Yes	TRUE	35	Male	31-35	United Kingdom		Sometimes	
+r00312	No	No	No	FALSE	34	Male	31-35	United Kingdom		Sometimes	100-500
+r00313	Yes	Yes	Yes	TRUE	35	Male	31-35	United States of America	Illinois	Always	6-25
+r00314	No	No	No	FALSE	31	Male	31-35	Norway		Sometimes	26-100
+r00315	Yes	Yes	Yes	TRUE	35	Female	31-35	United States of America	Washington	Always	
+r00316	No	No	No	FALSE	36	Male	36-40	United States of America	Indiana	Sometimes	26-100
+r00317	Yes	Yes	No	TRUE	50	Male	46-50	United States of America	Minnesota	Sometimes	26-100
+r00318	Yes	Yes	Yes	TRUE	31	Male	31-35	United States of America	Indiana	Sometimes	6-25
+r00319	Yes	Yes	No	TRUE	47	Male	46-50	United States of America	Vermont	Never	100-500
+r00320	No	No	No	FALSE	32	Female	31-35	Canada		Never	6-25
+r00321	Yes	No	Yes	TRUE	23	Female	20-25	Canada		Never	26-100
+r00322	Yes	Yes	Yes	TRUE	43	Female	41-45	Canada		Sometimes	6-25
+r00323	Yes	Maybe	No	FALSE	26	Female	26-30	Canada		Sometimes	6-25
+r00324	Yes	Maybe	Maybe	FALSE	26	Female	26-30	Canada		Never	26-100
+r00325	No	No	No	FALSE	55	Female	51-55	Canada		Sometimes	6-25
+r00326	No	Yes	Yes	TRUE	27	Male	26-30	Canada		Never	6-25
+r00327	Yes	No	No	FALSE	34	Male	31-35	Argentina		Always	100-500
+r00328	Yes	No	No	FALSE	25	Male	20-25	India		Never	26-100
+r00329	No	No	No	FALSE	35	Male	31-35	United States of America	Indiana	Sometimes	26-100
+r00330	No	Yes	Yes	TRUE	37	Male	36-40	Netherlands		Sometimes	
+r00331	I don't know	Yes	Yes	TRUE	38	Female	36-40	United States of America	Illinois	Sometimes	26-100
+r00332	I don't know	Maybe	Maybe	FALSE	29	Male	26-30	Canada		Never	26-100
+r00333	Yes	Maybe	Maybe	FALSE	28	Male	26-30	United Kingdom		Always	500-1000
+r00334	Yes	Yes	Maybe	TRUE	29	Male	26-30	United Kingdom		Always	6-25
+r00335	Yes	Maybe	Maybe	FALSE	40	Male	36-40	United States of America	New York	Always	More than 1000
+r00336	No	Yes	Yes	TRUE	25	Female	20-25	United States of America	Michigan	Sometimes	26-100
+r00337	No	Maybe	Maybe	FALSE	29	Male	26-30	Sweden		Sometimes	
+r00338	Yes	Yes	Yes	TRUE	29	Female	26-30	United States of America	Minnesota	Sometimes	26-100
+r00339	No	Yes	Yes	TRUE	35	Male	31-35	Netherlands		Sometimes	1-5
+r00340	I don't know	No	No	FALSE	25	Male	20-25	United States of America	New York	Sometimes	
+r00341	No	Yes	Yes	TRUE	43	Male	41-45	United States of America	Virginia	Sometimes	26-100
+r00342	No	Maybe	No	FALSE	26	Male	26-30	Ireland		Never	6-25
+r00343	No	No	Maybe	FALSE	31	Male	31-35	Germany		Never	100-500
+r00344	Yes	No	No	FALSE	31	Female	31-35	United States of America	Illinois	Always	100-500
+r00345	I don't know	Yes	Yes	TRUE	45	Female	41-45	United States of America	Texas	Always	More than 1000
+r00346	I don't know	No	Maybe	FALSE	23	Male	20-25	Italy		Never	More than 1000
+r00347	I don't know	No	No	FALSE	39	Male	36-40	United States of America	Rhode Island	Never	6-25
+r00348	Yes	No	No	FALSE	27	Female	26-30	United States of America	Illinois	Sometimes	26-100
+r00349	Yes	Yes	Yes	TRUE	28	Male	26-30	United States of America	Illinois	Sometimes	100-500
+r00350	No	No	Maybe	FALSE	36	Male	36-40	United States of America	Pennsylvania	Always	500-1000
+r00351	No	No	No	FALSE	22	Male	20-25	Germany		Never	100-500
+r00352	I don't know	Maybe	No	FALSE	51	Male	51-55	United States of America	California	Never	1-5
+r00353	No	Maybe	Maybe	FALSE	39	Male	36-40	Denmark		Sometimes	
+r00354	Yes	Yes	Yes	FALSE	36	Male	36-40	United States of America	Oregon	Sometimes	
+r00355	Yes	Yes	Yes	TRUE	28	Male	26-30	United States of America	Kansas	Sometimes	More than 1000
+r00356	No	No	No	FALSE	40	Male	36-40	United States of America	Illinois	Always	100-500
+r00357	I don't know	Yes	Yes	TRUE	35	Female	31-35	United States of America	Minnesota	Sometimes	26-100
+r00358	Yes	Yes	Yes	TRUE	38	Male	36-40	United States of America	California	Never	100-500
+r00359	Yes	Yes	Maybe	FALSE	29	Male	26-30	United States of America	Michigan	Always	100-500
+r00360	No	No	No	FALSE	43	Male	41-45	Netherlands		Sometimes	
+r00361	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Oregon	Always	500-1000
+r00362	No	No	No	FALSE	45	Male	41-45	United States of America	Vermont	Sometimes	100-500
+r00363	Yes	Maybe	Maybe	FALSE	26	Male	26-30	United States of America	Texas	Sometimes	100-500
+r00364	No	No	No	FALSE	42	Male	41-45	United States of America	Maryland	Always	100-500
+r00365	No	Yes	No	FALSE	28	Female	26-30	United States of America	New York	Always	100-500
+r00366	Yes	No	No	FALSE	28	Male	26-30	United Kingdom		Sometimes	6-25
+r00367	Yes	Yes	Yes	TRUE	39	Female	36-40	United States of America	California	Sometimes	100-500
+r00368	No	Yes	No	TRUE	34	Male	31-35	United States of America	New York	Sometimes	6-25
+r00369	Yes	Yes	Yes	TRUE	28	Female	26-30	United States of America	Pennsylvania	Always	26-100
+r00370	No	Maybe	No	FALSE	35	Female	31-35	United States of America	California	Sometimes	500-1000
+r00371	No	No	No	FALSE	42	Male	41-45	Canada		Sometimes	6-25
+r00372	Yes	Yes	Yes	TRUE	99	Trans/Other	Over 65	United States of America	Michigan	Sometimes	6-25
+r00373	No	Yes	Maybe	TRUE	29	Male	26-30	United Kingdom		Always	
+r00374	I don't know	Yes	Yes	TRUE	34	Male	31-35	Finland		Sometimes	
+r00375	Yes	No	No	FALSE	28	Male	26-30	Canada		Always	26-100
+r00376	No	Maybe	No	FALSE	22	Female	20-25	Russia		Sometimes	500-1000
+r00377	Yes	Yes	Yes	TRUE	28	Female	26-30	United States of America	California	Sometimes	26-100
+r00378	Yes	Yes	Yes	TRUE	26	Female	26-30	United States of America	Illinois	Always	
+r00379	Yes	Maybe	Maybe	FALSE	21	Female	20-25	Australia		Never	More than 1000
+r00380	Yes	Yes	Yes	TRUE	38	Male	36-40	Netherlands		Never	26-100
+r00381	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	California	Sometimes	More than 1000
+r00382	Yes	Yes	Yes	FALSE	28	Female	26-30	United States of America	California	Sometimes	100-500
+r00383	I don't know	Yes	Yes	TRUE	32	Male	31-35	United States of America	California	Sometimes	26-100
+r00384	I don't know	Yes	Yes	TRUE	24	Female	20-25	Australia		Sometimes	1-5
+r00385	Yes	Yes	Maybe	TRUE	35	Male	31-35	United States of America	California	Always	500-1000
+r00386	No	No	No	FALSE	41	Male	41-45	United States of America	California	Sometimes	
+r00387	Yes	No	No	FALSE	38	Female	36-40	United States of America	New Jersey	Always	
+r00388	Yes	Yes	Yes	TRUE	24	Female	20-25	United States of America	New York	Sometimes	More than 1000
+r00389	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	Illinois	Sometimes	100-500
+r00390	No	No	No	FALSE	47	Female	46-50	United States of America	California	Sometimes	100-500
+r00391	No	No	No	FALSE	26	Female	26-30	United States of America	Washington	Never	More than 1000
+r00392	I don't know	Yes	Yes	TRUE	32	Male	31-35	United States of America	Florida	Always	100-500
+r00393	Yes	No	Maybe	FALSE	32	Male	31-35	United States of America	California	Sometimes	100-500
+r00394	I don't know	Yes	Yes	TRUE	37	Male	36-40	United States of America	New York	Always	500-1000
+r00395	No	No	No	FALSE	33	Male	31-35	Netherlands		Sometimes	
+r00396	I don't know	Maybe	Maybe	FALSE	28	Female	26-30	United Kingdom		Sometimes	6-25
+r00397	No	No	No	FALSE	22	Male	20-25	Netherlands		Never	26-100
+r00398	Yes	Yes	Yes	FALSE	30	Male	26-30	United States of America	California	Sometimes	500-1000
+r00399	Yes	Maybe	No	TRUE	42	Female	41-45	United States of America	California	Always	
+r00400	I don't know	No	No	FALSE	34	Male	31-35	United States of America	California	Never	100-500
+r00401	No	Maybe	Maybe	TRUE	32	Male	31-35	United States of America	California	Sometimes	6-25
+r00402	Yes	Yes	Yes	TRUE	37	Male	36-40	United Kingdom		Always	100-500
+r00403	Yes	Yes	No	TRUE	31	Female	31-35	United States of America	California	Always	
+r00404	Yes	Yes	Yes	TRUE	31	Male	31-35	United States of America	Florida	Always	26-100
+r00405	I don't know	No	No	FALSE	26	Male	26-30	Colombia		Always	26-100
+r00406	I don't know	No	Maybe	FALSE	30	Male	26-30	United States of America	California	Sometimes	
+r00407	Yes	Yes	Yes	TRUE	36	Male	36-40	United States of America	Minnesota	Sometimes	100-500
+r00408	Yes	Yes	No	TRUE	38	Male	36-40	United States of America	Missouri	Always	100-500
+r00409	No	No	Yes	TRUE	24	Male	20-25	United States of America	Alabama	Sometimes	26-100
+r00410	I don't know	Yes	Yes	FALSE	26	Male	26-30	United States of America	California	Sometimes	100-500
+r00411	Yes	Yes	Maybe	TRUE	37	Male	36-40	United States of America	California	Never	More than 1000
+r00412	Yes	Yes	Yes	TRUE	27	Female	26-30	United Kingdom		Never	26-100
+r00413	No	Yes	No	TRUE	32	Male	31-35	Switzerland		Always	
+r00414	No	Yes	No	FALSE	32	Male	31-35	Netherlands		Never	26-100
+r00415	I don't know	Yes	Yes	TRUE	30	Male	26-30	Netherlands		Never	6-25
+r00416	No	Yes	Yes	TRUE	26	Female	26-30	Germany		Always	26-100
+r00417	Yes	Yes	Yes	TRUE	27	Female	26-30	United Kingdom		Never	
+r00418	I don't know	No	Yes	TRUE	27	Male	26-30	Netherlands		Always	
+r00419	Yes	Yes	Maybe	FALSE	29	Male	26-30	Colombia		Always	26-100
+r00420	Yes	Yes	Yes	TRUE	26	Trans/Other	26-30	Germany		Never	26-100
+r00421	No	No	No	FALSE	23	Female	20-25	United States of America	California	Never	100-500
+r00422	Yes	Yes	No	TRUE	30	Male	26-30	United States of America	California	Sometimes	100-500
+r00423	Yes	Yes	Yes	TRUE	40	Male	36-40	United States of America	Indiana	Sometimes	More than 1000
+r00424	I don't know	Maybe	Maybe	TRUE	46	Male	46-50	United States of America	California	Sometimes	100-500
+r00425	No	No	No	FALSE	26	Male	26-30	United States of America	Colorado	Sometimes	26-100
+r00426	I don't know	No	No	FALSE	30	Male	26-30	United States of America	California	Sometimes	More than 1000
+r00427	No	No	No	FALSE	27	Female	26-30	Canada		Always	100-500
+r00428	Yes	Yes	Yes	TRUE	35	Male	31-35	United States of America	Florida	Always	
+r00429	Yes	Yes	Yes	TRUE	26	Female	26-30	United States of America	California	Sometimes	26-100
+r00430	Yes	No	No	FALSE	35	Male	31-35	Australia		Always	100-500
+r00431	Yes	Yes	Yes	FALSE	29	Male	26-30	Netherlands		Never	26-100
+r00432	No	No	No	FALSE	34	Male	31-35	United Kingdom		Sometimes	100-500
+r00433	No	No	No	FALSE	27	Male	26-30	United States of America	California	Sometimes	
+r00434	No	Maybe	Maybe	FALSE	39	Male	36-40	United Kingdom		Sometimes	100-500
+r00435	No	No	No	FALSE	27	Male	26-30	United Kingdom		Sometimes	100-500
+r00436	No	Yes	No	TRUE	31	Male	31-35	Czech Republic		Sometimes	500-1000
+r00437	No	No	No	FALSE	26	Male	26-30	United Kingdom		Never	26-100
+r00438	Yes	Maybe	Maybe	FALSE	44	Male	41-45	United States of America	North Carolina	Always	26-100
+r00439	No	No	No	FALSE	27	Male	26-30	United States of America	California	Sometimes	100-500
+r00440	Yes	Yes	Yes	TRUE	57	Female	56-60	United States of America	Iowa	Sometimes	100-500
+r00441	I don't know	No	No	FALSE	34	Male	31-35	Canada		Sometimes	
+r00442	Yes	Yes	Yes	TRUE	38	Male	36-40	United States of America	Ohio	Sometimes	
+r00443	I don't know	Yes	Maybe	TRUE	55	Male	51-55	United States of America	Illinois	Always	
+r00444	Yes	Maybe	Maybe	FALSE	28	Male	26-30	Costa Rica		Sometimes	
+r00445	I don't know	Maybe	Maybe	FALSE	35	Male	31-35	United States of America	Michigan	Never	More than 1000
+r00446	I don't know	Yes	Yes	TRUE	26	Male	26-30	United States of America	New York	Always	100-500
+r00447	No	No	Maybe	FALSE	22	Female	20-25	United States of America	New York	Never	6-25
+r00448	No	No	No	FALSE	31	Male	31-35	United States of America	California	Sometimes	100-500
+r00449	No	No	No	FALSE	31	Male	31-35	United Kingdom		Never	26-100
+r00450	No	No	No	FALSE	40	Male	36-40	Germany		Sometimes	
+r00451	No	No	Yes	TRUE	26	Male	26-30	United States of America	New York	Sometimes	More than 1000
+r00452	Yes	Yes	Yes	FALSE	36	Male	36-40	United States of America	Georgia	Sometimes	1-5
+r00453	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	Illinois	Sometimes	26-100
+r00454	Yes	Yes	Yes	TRUE	24	Female	20-25	United States of America	New York	Sometimes	500-1000
+r00455	Yes	Maybe	Maybe	FALSE	22	Male	20-25	Vietnam		Sometimes	6-25
+r00456	Yes	Yes	Maybe	TRUE	33	Male	31-35	United States of America	Indiana	Always	6-25
+r00457	No	Yes	Yes	TRUE	37	Female	36-40	United States of America	California	Sometimes	More than 1000
+r00458	No	Yes	Maybe	FALSE	29	Male	26-30	United States of America	Washington	Always	6-25
+r00459	I don't know	Maybe	No	FALSE	38	Male	36-40	United States of America	Tennessee	Sometimes	1-5
+r00460	Yes	Maybe	Maybe	FALSE	33	Male	31-35	United States of America	Minnesota	Sometimes	1-5
+r00461	Yes	Yes	Maybe	TRUE	44	Female	41-45	Canada		Always	1-5
+r00462	Yes	Yes	Yes	TRUE	23	Male	20-25	United States of America	Minnesota	Sometimes	6-25
+r00463	No	No	No	FALSE	30	Male	26-30	United States of America	Nebraska	Sometimes	
+r00464	I don't know	Yes	Yes	TRUE	30	Male	26-30	United States of America	Tennessee	Never	More than 1000
+r00465	No	Maybe	No	FALSE	28	Male	26-30	United States of America	Nebraska	Sometimes	26-100
+r00466	I don't know	Maybe	Maybe	FALSE	39	Male	36-40	United States of America	West Virginia	Never	26-100
+r00467	Yes	Yes	Yes	TRUE	24	Female	20-25	United States of America	California	Never	6-25
+r00468	Yes	Yes	Yes	TRUE	27	Male	26-30	Netherlands		Always	
+r00469	Yes	Yes	Yes	TRUE	35	Male	31-35	United States of America	Tennessee	Sometimes	More than 1000
+r00470	Yes	Maybe	Maybe	FALSE	23	Male	20-25	United States of America	Nebraska	Never	6-25
+r00471	Yes	No	No	FALSE	37	Male	36-40	United States of America	Tennessee	Sometimes	More than 1000
+r00472	No	No	No	FALSE	35	Male	31-35	United States of America	Tennessee	Sometimes	6-25
+r00473	I don't know	Maybe	Maybe	FALSE	27	Male	26-30	United States of America	Tennessee	Sometimes	26-100
+r00474	Yes	Maybe	Maybe	FALSE	27	Female	26-30	United States of America	Nevada	Always	1-5
+r00475	No	Maybe	No	FALSE	27	Female	26-30	United States of America	Nebraska	Never	More than 1000
+r00476	Yes	Yes	Yes	TRUE	42	Male	41-45	United States of America	Nebraska	Sometimes	6-25
+r00477	Yes	No	No	FALSE	32	Male	31-35	United States of America	Illinois	Never	6-25
+r00478	Yes	Yes	Maybe	TRUE	26	Male	26-30	Finland		Sometimes	6-25
+r00479	No	Maybe	No	FALSE	28	Male	26-30	Bulgaria		Never	100-500
+r00480	No	No	No	FALSE	28	Male	26-30	United States of America	Nebraska	Sometimes	6-25
+r00481	Yes	Yes	No	TRUE	32	Male	31-35	United States of America	Nebraska	Sometimes	100-500
+r00482	I don't know	Yes	Yes	FALSE	43	Male	41-45	United States of America	Texas	Always	
+r00483	I don't know	Yes	Yes	TRUE	34	Male	31-35	United States of America	Indiana	Never	26-100
+r00484	No	Maybe	Maybe	FALSE	61	Female	61-65	United States of America	Colorado	Sometimes	6-25
+r00485	Yes	Yes	Yes	TRUE	50	Male	46-50	United States of America	Oregon	Always	
+r00486	Yes	Maybe	Yes	TRUE	38	Male	36-40	India		Sometimes	
+r00487	Yes	Yes	Yes	TRUE	51	Male	51-55	Germany		Sometimes	6-25
+r00488	No	Yes	No	TRUE	38	Male	36-40	Ireland		Sometimes	
+r00489	Yes	Yes	Yes	TRUE	34	Male	31-35	United States of America	Pennsylvania	Always	500-1000
+r00490	No	Yes	Maybe	TRUE	43	Male	41-45	United States of America	Maryland	Always	6-25
+r00491	No	No	Maybe	FALSE	43	Female	41-45	United States of America	California	Sometimes	100-500
+r00492	Yes	Yes	Yes	TRUE	44	Male	41-45	United States of America	California	Always	6-25
+r00493	I don't know	Maybe	Maybe	TRUE	35	Male	31-35	United States of America	California	Sometimes	100-500
+r00494	No	No	No	FALSE	50	Male	46-50	United States of America	Texas	Always	26-100
+r00495	No	Yes	Maybe	TRUE	29	Male	26-30	United States of America	Minnesota	Sometimes	100-500
+r00496	Yes	No	Yes	TRUE	29	Male	26-30	United States of America	New York	Never	100-500
+r00497	I don't know	No	No	FALSE	36	Male	36-40	Canada		Sometimes	500-1000
+r00498	Yes	Maybe	Maybe	FALSE	33	Male	31-35	Australia		Sometimes	
+r00499	No	Yes	Maybe	TRUE	50	Male	46-50	Australia		Sometimes	
+r00500	No	Yes	Maybe	TRUE	46	Male	46-50	United States of America	Virginia	Always	More than 1000
+r00501	Yes	Yes	Yes	TRUE	44	Female	41-45	New Zealand		Always	
+r00502	Yes	Maybe	Maybe	FALSE	23	Trans/Other	20-25	United States of America	Oregon	Sometimes	More than 1000
+r00503	I don't know	Yes	Maybe	TRUE	41	Male	41-45	United States of America	Washington	Sometimes	6-25
+r00504	No	No	Maybe	FALSE	31	Male	31-35	Canada		Sometimes	More than 1000
+r00505	Yes	Yes	Yes	TRUE	55	Male	51-55	United States of America	Illinois	Sometimes	1-5
+r00506	No	Yes	No	FALSE	34	Male	31-35	United States of America	Michigan	Sometimes	26-100
+r00507	Yes	Yes	Yes	FALSE	28	Female	26-30	United States of America	Michigan	Always	6-25
+r00508	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	Florida	Sometimes	6-25
+r00509	Yes	Yes	No	TRUE	29	Male	26-30	United States of America	California	Sometimes	100-500
+r00510	Yes	No	Yes	TRUE	33	Female	31-35	United States of America	Tennessee	Sometimes	More than 1000
+r00511	I don't know	No	No	FALSE	28	Male	26-30	United States of America	California	Sometimes	
+r00512	Yes	Yes	Yes	TRUE	28	Male	26-30	United States of America	California	Sometimes	More than 1000
+r00513	Yes	Yes	No	FALSE	32	Male	31-35	United States of America	California	Sometimes	26-100
+r00514	Yes	Maybe	Maybe	FALSE	36	Female	36-40	United States of America	Oregon	Never	6-25
+r00515	No	No	Maybe	FALSE	45	Male	41-45	United Kingdom		Sometimes	More than 1000
+r00516	No	No	No	FALSE	29	Male	26-30	Lithuania		Always	
+r00517	No	No	No	FALSE	23	Male	20-25	France		Never	More than 1000
+r00518	Yes	Yes	Maybe	TRUE	54	Female	51-55	Canada		Always	
+r00519	Yes	Yes	Yes	TRUE	61	Female	61-65	United States of America	California	Sometimes	
+r00520	Yes	Yes	Yes	TRUE	29	Female	26-30	United States of America	Illinois	Sometimes	26-100
+r00521	I don't know	Yes	No	TRUE	31	Male	31-35	Australia		Sometimes	26-100
+r00522	No	No	No	FALSE	37	Male	36-40	United States of America	New Jersey	Always	
+r00523	Yes	Yes	Maybe	TRUE	29	Male	26-30	Germany		Never	6-25
+r00524	No	Yes	No	FALSE	28	Male	26-30	United Kingdom		Always	
+r00525	No	Yes	Yes	FALSE	30	Male	26-30	United Kingdom		Sometimes	26-100
+r00526	No	Yes	No	TRUE	55	Male	51-55	United Kingdom		Always	More than 1000
+r00527	Yes	Yes	Yes	TRUE	38	Female	36-40	United States of America	Massachusetts	Never	6-25
+r00528	I don't know	No	No	FALSE	20	Male	20-25	Canada		Sometimes	6-25
+r00529	Yes	Yes	No	TRUE	25	Male	20-25	United States of America	California	Sometimes	100-500
+r00530	I don't know	Maybe	Maybe	FALSE	22	Male	20-25	Spain		Always	
+r00531	No	Yes	Yes	TRUE	35	Male	31-35	United Kingdom		Sometimes	
+r00532	I don't know	No	Yes	TRUE	27	Male	26-30	United States of America	Indiana	Never	26-100
+r00533	Yes	Yes	Yes	TRUE	24	Male	20-25	United States of America	Tennessee	Sometimes	6-25
+r00534	No	Yes	Yes	TRUE	39	Male	36-40	Australia		Always	
+r00535	I don't know	Maybe	Maybe	FALSE	29	Male	26-30	Brazil		Never	26-100
+r00536	Yes	Yes	Yes	TRUE	40	Female	36-40	United States of America	Texas	Never	26-100
+r00537	Yes	Maybe	Maybe	TRUE	30	Male	26-30	United States of America	Georgia	Always	1-5
+r00538	No	No	No	FALSE	32	Male	31-35	Canada		Sometimes	26-100
+r00539	I don't know	Maybe	Maybe	FALSE	34	Male	31-35	Germany		Sometimes	
+r00540	No	Yes	Yes	TRUE	35	Female	31-35	Canada		Sometimes	6-25
+r00541	Yes	Maybe	Maybe	FALSE	30	Male	26-30	United States of America	Illinois	Sometimes	
+r00542	Yes	Maybe	No	FALSE	36	Male	36-40	United Kingdom		Never	6-25
+r00543	I don't know	No	No	FALSE	26	Male	26-30	Sweden		Sometimes	26-100
+r00544	Yes	Maybe	No	TRUE	31	Female	31-35	Netherlands		Never	500-1000
+r00545	Yes	No	No	FALSE	33	Male	31-35	South Africa		Never	26-100
+r00546	Yes	Yes	Yes	TRUE	30	Male	26-30	United Kingdom		Sometimes	
+r00547	No	Yes	Yes	TRUE	46	Male	46-50	United Kingdom		Always	26-100
+r00548	Yes	Yes	No	TRUE	32	Male	31-35	United States of America	Colorado	Sometimes	100-500
+r00549	No	No	No	FALSE	34	Male	31-35	United States of America	Oregon	Sometimes	100-500
+r00550	Yes	Yes	Yes	TRUE	41	Male	41-45	United States of America	Tennessee	Always	100-500
+r00551	No	No	No	FALSE	32	Male	31-35	United States of America	Wisconsin	Always	100-500
+r00552	Yes	Yes	No	TRUE	47	Male	46-50	United States of America	Pennsylvania	Sometimes	More than 1000
+r00553	Yes	No	No	FALSE	29	Male	26-30	United States of America	Missouri	Always	100-500
+r00554	I don't know	No	No	TRUE	36	Male	36-40	United States of America	California	Sometimes	100-500
+r00555	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	Colorado	Sometimes	100-500
+r00556	Yes	Maybe	Maybe	FALSE	29	Male	26-30	United States of America	California	Sometimes	100-500
+r00557	No	No	No	FALSE	22	Male	20-25	United Kingdom		Never	1-5
+r00558	Yes	Yes	Yes	TRUE	32	Female	31-35	United States of America	Florida	Sometimes	More than 1000
+r00559	No	No	No	FALSE	19	Female	Under 20	United States of America	Florida	Never	More than 1000
+r00560	No	No	No	FALSE	30	Male	26-30	South Africa		Sometimes	6-25
+r00561	Yes	Yes	Maybe	TRUE	32	Trans/Other	31-35	United States of America	Washington	Always	6-25
+r00562	No	No	No	FALSE	22	Male	20-25	United States of America	California	Sometimes	More than 1000
+r00563	Yes	No	No	FALSE	30	Male	26-30	Poland		Always	
+r00564	Yes	No	No	FALSE		Male	Under 20	United States of America	Oregon	Sometimes	100-500
+r00565	No	No	No	FALSE	33	Male	31-35	Slovakia		Sometimes	6-25
+r00566	No	Yes	No	TRUE	48	Female	46-50	United Kingdom		Never	6-25
+r00567	No	Maybe	No	FALSE	45	Male	41-45	Germany		Never	More than 1000
+r00568	Yes	Yes	No	TRUE	28	Male	26-30	United Kingdom		Sometimes	26-100
+r00569	Yes	Maybe	No	FALSE	44	Male	41-45	United States of America	Oregon	Sometimes	100-500
+r00570	No	No	No	FALSE	31	Male	31-35	United States of America	Washington	Sometimes	6-25
+r00571	I don't know	Yes	Yes	TRUE	31	Female	31-35	United States of America	Pennsylvania	Sometimes	26-100
+r00572	No	No	No	FALSE	29	Male	26-30	United States of America	New York	Never	More than 1000
+r00573	No	No	No	FALSE	26	Male	26-30	United States of America	Texas	Never	More than 1000
+r00574	Yes	Yes	Yes	TRUE	35	Female	31-35	United States of America	Indiana	Sometimes	100-500
+r00575	I don't know	Maybe	No	FALSE	44	Male	41-45	Austria		Sometimes	
+r00576	Yes	Yes	Yes	TRUE	45	Male	41-45	United States of America	North Carolina	Always	6-25
+r00577	Yes	Yes	Yes	TRUE	22	Female	20-25	United States of America	North Carolina	Sometimes	6-25
+r00578	I don't know	Maybe	Maybe	FALSE	34	Male	31-35	United States of America	Michigan	Sometimes	100-500
+r00579	I don't know	Maybe	Maybe	FALSE	35	Male	31-35	United Kingdom		Never	26-100
+r00580	Yes	Yes	Yes	TRUE	39	Male	36-40	United States of America	Illinois	Sometimes	
+r00581	Yes	Yes	Maybe	TRUE	26	Male	26-30	Denmark		Never	6-25
+r00582	No	No	No	FALSE	41	Male	41-45	United States of America	Georgia	Sometimes	
+r00583	Yes	Yes	Yes	TRUE	24	Male	20-25	Australia		Sometimes	More than 1000
+r00584	Yes	Yes	Yes	TRUE	24	Male	20-25	United States of America	Louisiana	Never	6-25
+r00585	No	Yes	Yes	TRUE	34	Male	31-35	United States of America	Florida	Sometimes	26-100
+r00586	No	No	No	FALSE	36	Male	36-40	Australia		Sometimes	26-100
+r00587	Yes	Yes	Maybe	TRUE	41	Male	41-45	Australia		Sometimes	500-1000
+r00588	No	Yes	Yes	TRUE	21	Male	20-25	United States of America	South Carolina	Never	More than 1000
+r00589	I don't know	Yes	Yes	TRUE	33	Male	31-35	Bangladesh		Sometimes	100-500
+r00590	Yes	No	No	FALSE	32	Male	31-35	India		Always	More than 1000
+r00591	I don't know	Yes	Yes	TRUE	62	Female	61-65	United States of America	North Carolina	Never	More than 1000
+r00592	Yes	Yes	Yes	TRUE	37	Male	36-40	United States of America	Pennsylvania	Sometimes	26-100
+r00593	I don't know	No	Maybe	FALSE	32	Male	31-35	United States of America	South Dakota	Always	26-100
+r00594	No	No	No	FALSE	31	Male	31-35	United States of America	Illinois	Sometimes	More than 1000
+r00595	Yes	Yes	Maybe	TRUE	28	Male	26-30	United States of America	California	Sometimes	6-25
+r00596	Yes	Yes	Yes	TRUE	48	Female	46-50	United States of America	Texas	Always	
+r00597	Yes	Yes	Yes	TRUE	40	Male	36-40	Algeria		Sometimes	
+r00598	No	Yes	Yes	TRUE	29	Male	26-30	Norway		Never	26-100
+r00599	I don't know	No	No	FALSE	33	Male	31-35	Germany		Never	26-100
+r00600	Yes	No	No	FALSE	27	Male	26-30	Finland		Sometimes	26-100
+r00601	No	No	No	FALSE	24	Male	20-25	Australia		Sometimes	26-100
+r00602	Yes	Maybe	Yes	TRUE	28	Male	26-30	Netherlands		Sometimes	
+r00603	Yes	Maybe	Maybe	FALSE	42	Male	41-45	United States of America	Maryland	Always	1-5
+r00604	No	No	No	FALSE	28	Male	26-30	United Kingdom		Sometimes	26-100
+r00605	Yes	Yes	Yes	TRUE	40	Male	36-40	Canada		Always	500-1000
+r00606	Yes	Yes	Maybe	TRUE	32	Female	31-35	United States of America	Washington	Always	More than 1000
+r00607	No	Maybe	Maybe	TRUE	33	Male	31-35	United States of America	Colorado	Always	
+r00608	No	Maybe	Maybe	TRUE	40	Male	36-40	United States of America	Washington	Always	
+r00609	Yes	Yes	Yes	TRUE	26	Male	26-30	United States of America	Kansas	Never	6-25
+r00610	Yes	Yes	Yes	TRUE	39	Female	36-40	United States of America	California	Sometimes	100-500
+r00611	No	Maybe	Maybe	FALSE	38	Male	36-40	United Kingdom		Never	500-1000
+r00612	Yes	Maybe	Yes	FALSE	34	Male	31-35	United States of America	Colorado	Sometimes	More than 1000
+r00613	I don't know	Yes	Yes	TRUE	44	Male	41-45	Netherlands		Never	26-100
+r00614	No	No	Maybe	FALSE	54	Male	51-55	United Kingdom		Always	
+r00615	No	No	No	FALSE	24	Male	20-25	Pakistan		Always	100-500
+r00616	Yes	Yes	Yes	TRUE	31	Male	31-35	United States of America	Minnesota	Sometimes	6-25
+r00617	Yes	Yes	Yes	TRUE	47	Male	46-50	United States of America	Pennsylvania	Sometimes	More than 1000
+r00618	Yes	Yes	Yes	TRUE	30	Male	26-30	Australia		Sometimes	More than 1000
+r00619	I don't know	Maybe	No	FALSE	34	Male	31-35	United States of America	Michigan	Always	
+r00620	Yes	Yes	Yes	TRUE	29	Trans/Other	26-30	United States of America	New York	Sometimes	6-25
+r00621	No	No	No	FALSE	27	Male	26-30	United States of America	Missouri	Sometimes	More than 1000
+r00622	No	Yes	Yes	TRUE	29	Male	26-30	United States of America	Michigan	Never	More than 1000
+r00623	No	Maybe	Maybe	FALSE	43	Female	41-45	United States of America	Maryland	Sometimes	
+r00624	Yes	Yes	Yes	TRUE	31	Trans/Other	31-35	United States of America	Illinois	Sometimes	100-500
+r00625	No	No	Maybe	FALSE	27	Male	26-30	Norway		Never	6-25
+r00626	No	Yes	Yes	TRUE	29	Male	26-30	United Kingdom		Never	6-25
+r00627	No	No	No	FALSE	29	Male	26-30	United Kingdom		Never	6-25
+r00628	I don't know	Maybe	Yes	TRUE	42	Male	41-45	United States of America	New Hampshire	Sometimes	More than 1000
+r00629	Yes	Yes	No	FALSE	26	Female	26-30	United States of America	Illinois	Always	6-25
+r00630	Yes	Yes	No	TRUE	26	Male	26-30	Switzerland		Sometimes	6-25
+r00631	Yes	Yes	Yes	TRUE	34	Male	31-35	United Kingdom		Sometimes	
+r00632	I don't know	No	No	FALSE	24	Male	20-25	United States of America	Kansas	Sometimes	100-500
+r00633	No	No	No	FALSE	25	Male	20-25	United States of America	Kansas	Never	More than 1000
+r00634	No	No	No	FALSE	22	Male	20-25	United States of America	Kansas	Sometimes	6-25
+r00635	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	Illinois	Sometimes	100-500
+r00636	No	No	No	FALSE	53	Male	51-55	United States of America	Arizona	Always	26-100
+r00637	Yes	Yes	Yes	TRUE	32	Male	31-35	Canada		Never	26-100
+r00638	No	Yes	No	TRUE	32	Male	31-35	United States of America	Minnesota	Sometimes	6-25
+r00639	No	No	Maybe	FALSE	55	Male	51-55	United States of America	New York	Sometimes	
+r00640	No	No	No	FALSE	27	Male	26-30	France		Never	6-25
+r00641	I don't know	Maybe	No	FALSE	34	Male	31-35	United Kingdom		Always	6-25
+r00642	Yes	Yes	Yes	TRUE	26	Male	26-30	United States of America	Colorado	Sometimes	6-25
+r00643	Yes	Yes	Yes	TRUE	25	Trans/Other	20-25	United States of America	Oregon	Never	26-100
+r00644	Yes	Yes	Maybe	TRUE	39	Male	36-40	United Kingdom		Sometimes	More than 1000
+r00645	No	Maybe	Maybe	FALSE	32	Male	31-35	United States of America	Kansas	Never	26-100
+r00646	No	Yes	Maybe	TRUE	46	Male	46-50	United Kingdom		Sometimes	
+r00647	No	No	No	FALSE	52	Female	51-55	United States of America	Oregon	Sometimes	
+r00648	Yes	Yes	Maybe	TRUE	33	Trans/Other	31-35	United Kingdom		Never	500-1000
+r00649	No	No	No	FALSE	58	Male	56-60	United States of America	Minnesota	Sometimes	26-100
+r00650	No	No	Yes	TRUE	30	Male	26-30	Canada		Never	6-25
+r00651	No	No	No	FALSE	46	Male	46-50	Sweden		Sometimes	
+r00652	Yes	Yes	Yes	TRUE	45	Male	41-45	United States of America	Washington	Sometimes	More than 1000
+r00653	Yes	Yes	No	TRUE	26	Female	26-30	Canada		Sometimes	1-5
+r00654	Yes	Maybe	Yes	TRUE	22	Male	20-25	United States of America	Pennsylvania	Never	100-500
+r00655	Yes	Maybe	No	FALSE	21	Male	20-25	United States of America	Kansas	Sometimes	6-25
+r00656	I don't know	Yes	Maybe	TRUE		Male	Under 20	Canada		Sometimes	More than 1000
+r00657	No	No	No	FALSE	34	Male	31-35	United States of America	Kansas	Sometimes	500-1000
+r00658	No	No	No	FALSE	25	Female	20-25	United States of America	Kansas	Sometimes	26-100
+r00659	Yes	Yes	Yes	TRUE	27	Male	26-30	United States of America	Illinois	Sometimes	6-25
+r00660	Yes	Yes	Yes	TRUE	25	Female	20-25	United States of America	Washington	Never	26-100
+r00661	I don't know	Maybe	Maybe	TRUE	33	Male	31-35	United Kingdom		Sometimes	500-1000
+r00662	I don't know	Yes	Yes	TRUE	26	Female	26-30	Canada		Always	
+r00663	Yes	No	No	FALSE	36	Female	36-40	United States of America	Oklahoma	Always	6-25
+r00664	I don't know	Maybe	Maybe	FALSE	26	Male	26-30	United Kingdom		Never	6-25
+r00665	I don't know	Maybe	Maybe	FALSE	34	Male	31-35	United States of America	Minnesota	Never	6-25
+r00666	Yes	Yes	Yes	TRUE	34	Male	31-35	United States of America	Oklahoma	Sometimes	26-100
+r00667	I don't know	Maybe	Yes	TRUE	25	Male	20-25	United States of America	Pennsylvania	Sometimes	More than 1000
+r00668	Yes	Maybe	Maybe	FALSE	33	Female	31-35	United States of America	Illinois	Sometimes	
+r00669	Yes	No	No	FALSE	27	Female	26-30	Canada		Sometimes	26-100
+r00670	No	Maybe	No	FALSE	24	Female	20-25	Canada		Never	26-100
+r00671	Yes	Yes	No	TRUE	47	Female	46-50	United States of America	Washington	Sometimes	More than 1000
+r00672	No	Maybe	No	FALSE	37	Male	36-40	United States of America	Indiana	Sometimes	26-100
+r00673	I don't know	Yes	Yes	TRUE	35	Trans/Other	31-35	United States of America	Illinois	Sometimes	More than 1000
+r00674	I don't know	Yes	Yes	TRUE	30	Male	26-30	United States of America	Pennsylvania	Always	100-500
+r00675	No	No	No	FALSE	42	Male	41-45	United States of America	Tennessee	Never	More than 1000
+r00676	Yes	Yes	Yes	TRUE	36	Female	36-40	United States of America	Indiana	Sometimes	
+r00677	I don't know	Maybe	Maybe	FALSE	31	Male	31-35	United States of America	Pennsylvania	Always	100-500
+r00678	I don't know	Maybe	Maybe	TRUE	28	Female	26-30	United States of America	Massachusetts	Always	100-500
+r00679	I don't know	Yes	Yes	TRUE	36	Female	36-40	United States of America	Indiana	Sometimes	26-100
+r00680	Yes	Yes	Yes	TRUE	36	Female	36-40	United States of America	Tennessee	Never	6-25
+r00681	Yes	Maybe	Maybe	TRUE	32	Male	31-35	Canada		Sometimes	26-100
+r00682	No	No	No	FALSE	42	Male	41-45	United States of America	Missouri	Always	
+r00683	No	Maybe	Maybe	FALSE	41	Female	41-45	United States of America	Colorado	Never	100-500
+r00684	No	No	No	FALSE	36	Male	36-40	Sweden		Sometimes	26-100
+r00685	Yes	Yes	Yes	TRUE	23	Male	20-25	United States of America	Wisconsin	Sometimes	26-100
+r00686	Yes	Yes	Yes	TRUE	54	Female	51-55	United States of America	Texas	Never	More than 1000
+r00687	No	No	No	FALSE	34	Female	31-35	United States of America	Illinois	Never	26-100
+r00688	No	No	No	FALSE	36	Male	36-40	Netherlands		Never	6-25
+r00689	Yes	No	No	FALSE	27	Male	26-30	United States of America	Virginia	Never	1-5
+r00690	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	Rhode Island	Always	100-500
+r00691	I don't know	Yes	Maybe	TRUE	21	Male	20-25	Germany		Never	6-25
+r00692	No	No	No	FALSE	44	Male	41-45	United States of America	Michigan	Always	1-5
+r00693	I don't know	Yes	Yes	FALSE	33	Male	31-35	United States of America	Minnesota	Always	26-100
+r00694	Yes	Yes	Yes	TRUE	38	Male	36-40	United Kingdom		Sometimes	More than 1000
+r00695	Yes	Maybe	No	FALSE	38	Male	36-40	Ireland		Sometimes	More than 1000
+r00696	I don't know	No	No	FALSE	38	Female	36-40	United States of America	Ohio	Always	
+r00697	I don't know	No	No	FALSE	22	Female	20-25	Brazil		Always	1-5
+r00698	I don't know	Yes	Yes	TRUE	33	Trans/Other	31-35	United States of America	Florida	Sometimes	
+r00699	Yes	No	No	FALSE	27	Female	26-30	Canada		Never	More than 1000
+r00700	Yes	Yes	Yes	FALSE	55	Female	51-55	United States of America	Vermont	Sometimes	
+r00701	Yes	Yes	Yes	TRUE	66	Male	Over 65	United States of America	Maine	Sometimes	6-25
+r00702	Yes	Maybe	Maybe	FALSE	25	Male	20-25	United States of America	New Jersey	Sometimes	1-5
+r00703	I don't know	No	No	FALSE	22	Male	20-25	Netherlands		Never	26-100
+r00704	No	No	No	FALSE	29	Male	26-30	Brazil		Sometimes	26-100
+r00705	No	Yes	No	FALSE	33	Male	31-35	New Zealand		Never	100-500
+r00706	I don't know	No	No	FALSE	27	Male	26-30	Sweden		Never	6-25
+r00707	I don't know	Yes	Maybe	TRUE	44	Male	41-45	United States of America	Tennessee	Sometimes	6-25
+r00708	I don't know	Yes	Yes	FALSE	38	Male	36-40	Bulgaria		Sometimes	
+r00709	No	No	No	FALSE	32	Male	31-35	United States of America	New Hampshire	Always	6-25
+r00710	No	No	No	FALSE	59	Female	56-60	United States of America	Ohio	Never	500-1000
+r00711	I don't know	No	No	FALSE	43	Male	41-45	Sweden		Sometimes	
+r00712	No	Yes	Yes	TRUE	55	Female	51-55	Germany		Always	
+r00713	Yes	Yes	No	TRUE	32	Male	31-35	United States of America	California	Always	More than 1000
+r00714	I don't know	No	Maybe	FALSE	41	Male	41-45	United Kingdom		Never	More than 1000
+r00715	Yes	Yes	Yes	TRUE	38	Female	36-40	United States of America	Washington	Always	1-5
+r00716	No	Yes	Yes	TRUE	46	Male	46-50	United States of America	Colorado	Sometimes	
+r00717	Yes	Yes	No	TRUE	43	Male	41-45	United Kingdom		Never	More than 1000
+r00718	Yes	Yes	Yes	TRUE	29	Female	26-30	United States of America	Pennsylvania	Always	100-500
+r00719	I don't know	Maybe	No	FALSE	42	Male	41-45	United States of America	Missouri	Always	
+r00720	No	No	No	FALSE	25	Female	20-25	United States of America	Colorado	Never	100-500
+r00721	No	Yes	Yes	TRUE	49	Male	46-50	Afghanistan		Never	26-100
+r00722	Yes	No	Yes	TRUE	36	Male	36-40	Pakistan		Always	26-100
+r00723	No	Yes	No	FALSE	30	Male	26-30	United Kingdom		Always	
+r00724	Yes	No	No	FALSE	28	Male	26-30	United States of America	Oregon	Sometimes	26-100
+r00725	Yes	Yes	Yes	TRUE	37	Male	36-40	United States of America	Texas	Sometimes	More than 1000
+r00726	Yes	Maybe	Yes	TRUE	23	Female	20-25	United States of America	Ohio	Sometimes	6-25
+r00727	Yes	No	No	FALSE	37	Male	36-40	United Kingdom		Sometimes	
+r00728	No	Maybe	Yes	TRUE	42	Male	41-45	Netherlands		Always	
+r00729	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	Minnesota	Never	More than 1000
+r00730	I don't know	No	Maybe	FALSE	28	Male	26-30	Canada		Always	1-5
+r00731	Yes	Yes	Yes	TRUE	28	Male	26-30	United Kingdom		Never	More than 1000
+r00732	Yes	Yes	Yes	TRUE	29	Male	26-30	United States of America	California	Never	More than 1000
+r00733	No	Maybe	Maybe	TRUE	35	Male	31-35	United States of America	Georgia	Always	100-500
+r00734	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Wisconsin	Sometimes	
+r00735	Yes	Yes	Yes	TRUE	46	Female	46-50	United States of America	California	Never	
+r00736	I don't know	Yes	Maybe	TRUE	19	Male	Under 20	United States of America	Massachusetts	Sometimes	
+r00737	I don't know	Maybe	Maybe	FALSE	35	Male	31-35	Sweden		Always	500-1000
+r00738	I don't know	Maybe	No	FALSE	31	Male	31-35	United Kingdom		Sometimes	More than 1000
+r00739	No	No	No	FALSE	31	Male	31-35	United States of America	Florida	Sometimes	
+r00740	No	No	No	FALSE	37	Male	36-40	Canada		Always	More than 1000
+r00741	Yes	Yes	Yes	TRUE	34	Female	31-35	United States of America	Oklahoma	Sometimes	6-25
+r00742	Yes	Yes	No	TRUE	39	Female	36-40	United States of America	California	Sometimes	26-100
+r00743	Yes	No	No	FALSE	29	Female	26-30	United States of America	Washington	Always	
+r00744	Yes	Yes	Yes	TRUE	29	Female	26-30	United States of America	Pennsylvania	Always	100-500
+r00745	Yes	Yes	No	FALSE	63	Male	61-65	United States of America	Maryland	Sometimes	More than 1000
+r00746	No	Maybe	Yes	TRUE	45	Male	41-45	Australia		Never	
+r00747	I don't know	Maybe	Maybe	FALSE	35	Male	31-35	Greece		Always	
+r00748	Yes	Yes	Maybe	TRUE	32	Male	31-35	United Kingdom		Always	
+r00749	I don't know	Maybe	No	FALSE	44	Male	41-45	United States of America	California	Always	
+r00750	Yes	Yes	Yes	TRUE	28	Trans/Other	26-30	United Kingdom		Never	More than 1000
+r00751	No	Maybe	Maybe	FALSE	39	Male	36-40	Ireland		Sometimes	
+r00752	Yes	Yes	Maybe	FALSE	55	Female	51-55	United States of America	California	Sometimes	
+r00753	Yes	Maybe	Yes	TRUE	33	Female	31-35	United States of America	Connecticut	Sometimes	
+r00754	No	No	No	FALSE	19	Male	Under 20	India		Always	6-25
+r00755	Yes	Maybe	Maybe	FALSE	40	Male	36-40	United States of America	California	Always	More than 1000
+r00756	Yes	Maybe	No	TRUE	49	Female	46-50	United States of America	Illinois	Sometimes	More than 1000
+r00757	I don't know	No	No	FALSE	27	Female	26-30	Australia		Sometimes	6-25
+r00758	Yes	Yes	Yes	TRUE	39	Male	36-40	United States of America	Missouri	Never	More than 1000
+r00759	No	Yes	Yes	TRUE	35	Male	31-35	United Kingdom		Never	More than 1000
+r00760	I don't know	Maybe	Maybe	FALSE	35	Male	31-35	United States of America	Texas	Sometimes	26-100
+r00761	I don't know	Yes	Yes	TRUE	42	Female	41-45	United States of America	Texas	Sometimes	26-100
+r00762	No	No	No	FALSE	35	Male	31-35	Canada		Sometimes	6-25
+r00763	I don't know	Yes	No	TRUE	31	Female	31-35	United States of America	Texas	Sometimes	100-500
+r00764	Yes	Yes	Yes	TRUE	44	Male	41-45	United Kingdom		Always	
+r00765	I don't know	Maybe	Maybe	FALSE	39	Male	36-40	United States of America	Georgia	Sometimes	100-500
+r00766	I don't know	No	No	FALSE	32	Male	31-35	Canada		Always	
+r00767	No	No	No	FALSE	45	Male	41-45	New Zealand		Sometimes	More than 1000
+r00768	No	No	No	FALSE	31	Male	31-35	United States of America	Texas	Sometimes	
+r00769	Yes	Yes	Yes	TRUE	47	Female	46-50	United States of America	New York	Sometimes	
+r00770	Yes	Maybe	No	FALSE	29	Male	26-30	United States of America	Maryland	Sometimes	26-100
+r00771	Yes	Yes	No	TRUE	20	Male	20-25	United States of America	New York	Always	6-25
+r00772	Yes	No	No	FALSE	34	Male	31-35	United States of America	Washington	Never	100-500
+r00773	No	Yes	Yes	TRUE	33	Trans/Other	31-35	United Kingdom		Never	500-1000
+r00774	Yes	Maybe	Maybe	FALSE	56	Female	56-60	United States of America	Florida	Always	
+r00775	Yes	Yes	Yes	FALSE	35	Male	31-35	Canada		Sometimes	
+r00776	Yes	Yes	Yes	TRUE	31	Male	31-35	United States of America	California	Sometimes	100-500
+r00777	Yes	Yes	Yes	TRUE	36	Male	36-40	United States of America	Texas	Sometimes	More than 1000
+r00778	Yes	No	Yes	FALSE	30	Male	26-30	United States of America	California	Always	100-500
+r00779	Yes	Yes	Maybe	TRUE	44	Female	41-45	United States of America	Texas	Never	More than 1000
+r00780	I don't know	Yes	Yes	TRUE	23	Female	20-25	United States of America	Texas	Sometimes	1-5
+r00781	No	No	No	FALSE	46	Male	46-50	United States of America	Missouri	Never	More than 1000
+r00782	Yes	Yes	Yes	TRUE	33	Female	31-35	United States of America	Maine	Always	100-500
+r00783	Yes	Yes	Maybe	TRUE	32	Female	31-35	United States of America	California	Never	500-1000
+r00784	No	Yes	Maybe	TRUE	45	Male	41-45	Australia		Sometimes	
+r00785	I don't know	Yes	Yes	FALSE	26	Male	26-30	United States of America	Illinois	Sometimes	6-25
+r00786	No	No	No	FALSE	32	Female	31-35	United States of America	New Mexico	Always	
+r00787	No	No	No	FALSE	28	Male	26-30	United States of America	Oregon	Sometimes	More than 1000
+r00788	No	Yes	No	FALSE	44	Male	41-45	United States of America	Wisconsin	Sometimes	
+r00789	Yes	Maybe	Maybe	FALSE	42	Male	41-45	United Kingdom		Always	
+r00790	No	No	No	FALSE	30	Male	26-30	United States of America	California	Sometimes	More than 1000
+r00791	Yes	Maybe	Maybe	TRUE	28	Female	26-30	United States of America	Washington	Sometimes	6-25
+r00792	Yes	Yes	Yes	TRUE	31	Male	31-35	Canada		Always	100-500
+r00793	I don't know	Maybe	Maybe	FALSE	29	Male	26-30	United States of America	Ohio	Sometimes	100-500
+r00794	No	Maybe	Maybe	FALSE	33	Male	31-35	United States of America	Texas	Sometimes	26-100
+r00795	Yes	Yes	Yes	TRUE	43	Female	41-45	United States of America	Maryland	Always	More than 1000
+r00796	No	No	Maybe	FALSE	28	Male	26-30	Australia		Always	100-500
+r00797	I don't know	Maybe	Maybe	FALSE	42	Trans/Other	41-45	United Kingdom		Always	
+r00798	Yes	Yes	Yes	TRUE	38	Male	36-40	United States of America	California	Always	100-500
+r00799	No	Yes	Maybe	TRUE	30	Male	26-30	United States of America	Wisconsin	Sometimes	6-25
+r00800	Yes	Yes	Yes	TRUE	51	Female	51-55	United States of America	North Dakota	Sometimes	
+r00801	No	No	No	FALSE	48	Female	46-50	United States of America	Kansas	Never	26-100
+r00802	I don't know	Maybe	Maybe	FALSE	39	Male	36-40	New Zealand		Always	
+r00803	No	No	No	FALSE	28	Male	26-30	Australia		Sometimes	6-25
+r00804	Yes	Yes	Maybe	TRUE	37	Male	36-40	United States of America	Colorado	Always	100-500
+r00805	I don't know	Yes	No	FALSE	33	Male	31-35	United States of America	Oklahoma	Sometimes	More than 1000
+r00806	No	No	Yes	FALSE	21	Male	20-25	Australia		Never	6-25
+r00807	Yes	Yes	No	TRUE	25	Male	20-25	United States of America	California	Sometimes	26-100
+r00808	No	No	No	FALSE	15	Male	Under 20	Canada		Sometimes	
+r00809	Yes	Yes	Yes	TRUE	40	Male	36-40	United States of America	Oklahoma	Always	100-500
+r00810	Yes	Yes	Maybe	TRUE	30	Female	26-30	Canada		Sometimes	100-500
+r00811	I don't know	No	Maybe	FALSE	27	Male	26-30	Romania		Always	
+r00812	No	No	No	FALSE	25	Male	20-25	India		Never	1-5
+r00813	No	No	No	FALSE	38	Male	36-40	Germany		Sometimes	More than 1000
+r00814	Yes	No	Maybe	FALSE	24	Male	20-25	United Kingdom		Never	100-500
+r00815	No	No	No	FALSE	23	Male	20-25	United Kingdom		Never	6-25
+r00816	Yes	Yes	Yes	TRUE	39	Female	36-40	United Kingdom		Always	
+r00817	No	No	No	FALSE	26	Male	26-30	United States of America	Colorado	Sometimes	6-25
+r00818	No	No	No	FALSE	43	Male	41-45	United Kingdom		Never	More than 1000
+r00819	Yes	Maybe	Maybe	FALSE	30	Male	26-30	New Zealand		Always	6-25
+r00820	No	Maybe	Yes	TRUE	35	Male	31-35	Other		Always	
+r00821	I don't know	Maybe	Maybe	FALSE	40	Male	36-40	United Kingdom		Sometimes	26-100
+r00822	Yes	Yes	Yes	FALSE	33	Female	31-35	United Kingdom		Never	26-100
+r00823	No	No	Maybe	FALSE	35	Male	31-35	Brunei		Sometimes	
+r00824	I don't know	No	No	FALSE	22	Male	20-25	United Kingdom		Never	6-25
+r00825	Yes	Yes	Yes	TRUE	28	Male	26-30	United States of America	Ohio	Always	100-500
+r00826	Yes	Yes	Yes	TRUE	39	Male	36-40	United States of America	California	Sometimes	More than 1000
+r00827	I don't know	No	No	FALSE	33	Male	31-35	United States of America	Indiana	Always	100-500
+r00828	No	No	No	FALSE	25	Female	20-25	United Kingdom		Always	
+r00829	No	No	No	FALSE	37	Male	36-40	United States of America	Minnesota	Sometimes	6-25
+r00830	Yes	Yes	Yes	TRUE	41	Female	41-45	France		Never	500-1000
+r00831	Yes	Yes	Yes	TRUE	30	Female	26-30	United States of America	Kansas	Sometimes	More than 1000
+r00832	Yes	Yes	No	FALSE	42	Male	41-45	United States of America	Texas	Sometimes	More than 1000
+r00833	No	No	No	FALSE	52	Male	51-55	United States of America	Minnesota	Sometimes	6-25
+r00834	No	No	No	FALSE	30	Male	26-30	Romania		Always	26-100
+r00835	I don't know	Yes	Yes	FALSE	35	Male	31-35	United States of America	Texas	Sometimes	500-1000
+r00836	No	Yes	No	TRUE	24	Male	20-25	United States of America	Texas	Sometimes	26-100
+r00837	I don't know	No	No	FALSE	39	Male	36-40	United States of America	Minnesota	Sometimes	6-25
+r00838	Yes	No	No	FALSE	34	Male	31-35	United States of America	Pennsylvania	Sometimes	6-25
+r00839	Yes	No	No	FALSE	32	Male	31-35	United States of America	Colorado	Always	
+r00840	Yes	Maybe	Maybe	TRUE	25	Male	20-25	United Kingdom		Sometimes	
+r00841	I don't know	Maybe	Maybe	FALSE	43	Male	41-45	Poland		Never	26-100
+r00842	No	No	No	FALSE	39	Male	36-40	United States of America	Minnesota	Sometimes	6-25
+r00843	Yes	Yes	Yes	TRUE	35	Male	31-35	United States of America	South Dakota	Always	
+r00844	Yes	Yes	Yes	TRUE	34	Male	31-35	United States of America	Nebraska	Sometimes	26-100
+r00845	No	No	No	FALSE	38	Male	36-40	United Kingdom		Sometimes	More than 1000
+r00846	I don't know	Yes	Yes	TRUE	26	Female	26-30	United States of America	North Carolina	Always	100-500
+r00847	Yes	No	No	FALSE	24	Male	20-25	Bulgaria		Sometimes	6-25
+r00848	Yes	Yes	Yes	TRUE	27	Female	26-30	United States of America	New York	Sometimes	More than 1000
+r00849	No	Yes	Yes	FALSE	25	Male	20-25	United States of America	Oklahoma	Never	6-25
+r00850	No	No	No	FALSE	37	Male	36-40	United States of America	Massachusetts	Sometimes	
+r00851	Yes	Maybe	No	FALSE	33	Male	31-35	Canada		Sometimes	More than 1000
+r00852	No	Yes	Yes	TRUE	34	Male	31-35	United States of America	New York	Sometimes	26-100
+r00853	I don't know	Yes	Yes	TRUE	27	Male	26-30	Canada		Sometimes	26-100
+r00854	Yes	Yes	Maybe	TRUE	33	Male	31-35	United States of America	New Hampshire	Sometimes	100-500
+r00855	Yes	Yes	Yes	TRUE	50	Male	46-50	United States of America	Minnesota	Sometimes	6-25
+r00856	Yes	Yes	Yes	TRUE	54	Female	51-55	United States of America	New York	Sometimes	
+r00857	I don't know	Yes	No	TRUE	32	Female	31-35	Canada		Sometimes	More than 1000
+r00858	No	No	No	FALSE	39	Male	36-40	Canada		Sometimes	6-25
+r00859	No	No	No	FALSE	36	Male	36-40	United States of America	Minnesota	Sometimes	6-25
+r00860	No	Maybe	No	FALSE	34	Male	31-35	Canada		Sometimes	100-500
+r00861	Yes	Yes	Maybe	FALSE	31	Female	31-35	United States of America	New York	Sometimes	100-500
+r00862	Yes	Yes	Maybe	TRUE	36	Male	36-40	United States of America	Texas	Never	More than 1000
+r00863	I don't know	No	No	FALSE	48	Male	46-50	United States of America	Minnesota	Sometimes	More than 1000
+r00864	Yes	Yes	Maybe	TRUE	31	Male	31-35	United States of America	Maine	Never	6-25
+r00865	No	No	No	FALSE	32	Male	31-35	United States of America	Pennsylvania	Always	1-5
+r00866	No	No	No	FALSE	32	Male	31-35	United States of America	Oregon	Always	100-500
+r00867	Yes	Yes	Yes	TRUE	31	Male	31-35	United States of America	Oregon	Always	
+r00868	Yes	No	Yes	TRUE	28	Female	26-30	United States of America	Kansas	Sometimes	1-5
+r00869	Yes	Yes	Yes	TRUE	28	Male	26-30	United Kingdom		Never	More than 1000
+r00870	Yes	Yes	Yes	TRUE	33	Female	31-35	United States of America	Pennsylvania	Sometimes	26-100
+r00871	Yes	Yes	No	TRUE	33	Male	31-35	United States of America	Oregon	Never	
+r00872	No	Yes	Yes	TRUE	59	Male	56-60	United States of America	Arizona	Always	
+r00873	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	Oregon	Sometimes	
+r00874	I don't know	Maybe	Maybe	TRUE	37	Male	36-40	United States of America	Florida	Always	100-500
+r00875	No	Yes	No	TRUE	27	Female	26-30	Germany		Always	6-25
+r00876	No	No	Maybe	FALSE	39	Male	36-40	United States of America	Texas	Always	More than 1000
+r00877	Yes	Yes	No	FALSE	50	Male	46-50	Germany		Sometimes	
+r00878	I don't know	No	No	FALSE	34	Female	31-35	United States of America	Texas	Never	More than 1000
+r00879	No	No	Maybe	FALSE	50	Male	46-50	Germany		Sometimes	
+r00880	I don't know	Maybe	Maybe	FALSE	31	Female	31-35	Other		Always	6-25
+r00881	Yes	Maybe	Maybe	TRUE	39	Male	36-40	United States of America	Maryland	Sometimes	More than 1000
+r00882	Yes	Yes	No	TRUE	46	Male	46-50	United States of America	Virginia	Sometimes	26-100
+r00883	No	No	Maybe	FALSE	28	Male	26-30	United States of America	Tennessee	Sometimes	More than 1000
+r00884	No	No	No	FALSE	32	Male	31-35	France		Sometimes	26-100
+r00885	No	Yes	Yes	TRUE	65	Female	61-65	United States of America	Oregon	Sometimes	
+r00886	Yes	Yes	Maybe	TRUE	37	Male	36-40	United States of America	California	Always	
+r00887	I don't know	Maybe	No	FALSE	41	Female	41-45	United States of America	District of Columbia	Sometimes	
+r00888	I don't know	Yes	Yes	TRUE	38	Male	36-40	United States of America	New York	Sometimes	
+r00889	No	Yes	Yes	TRUE	51	Male	51-55	United States of America	North Carolina	Sometimes	26-100
+r00890	I don't know	Maybe	Maybe	FALSE	29	Male	26-30	United States of America	Illinois	Sometimes	500-1000
+r00891	No	No	No	FALSE	37	Male	36-40	Japan		Always	
+r00892	No	No	No	FALSE	31	Male	31-35	Canada		Always	
+r00893	Yes	Maybe	Maybe	FALSE	32	Male	31-35	Iran		Sometimes	1-5
+r00894	I don't know	Yes	Yes	TRUE	31	Male	31-35	Sweden		Sometimes	
+r00895	Yes	Maybe	No	FALSE	52	Male	51-55	Switzerland		Never	More than 1000
+r00896	Yes	Yes	Yes	TRUE	31	Male	31-35	Switzerland		Sometimes	
+r00897	No	No	No	FALSE	38	Female	36-40	United Kingdom		Always	
+r00898	I don't know	Yes	Maybe	TRUE	35	Male	31-35	United States of America	Illinois	Never	More than 1000
+r00899	I don't know	No	No	FALSE	29	Male	26-30	United States of America	Oklahoma	Always	
+r00900	No	No	No	FALSE	63	Male	61-65	United States of America	Minnesota	Always	
+r00901	No	Yes	Yes	TRUE	47	Female	46-50	United States of America	New York	Always	
+r00902	Yes	Yes	Yes	TRUE	43	Male	41-45	Austria		Always	
+r00903	No	No	No	FALSE	38	Male	36-40	Ireland		Sometimes	26-100
+r00904	No	Maybe	Maybe	FALSE	27	Male	26-30	United States of America	Washington	Never	6-25
+r00905	Yes	Yes	Yes	FALSE	40	Female	36-40	United States of America	Oregon	Always	6-25
+r00906	No	Maybe	No	FALSE	32	Male	31-35	South Africa		Never	500-1000
+r00907	No	Maybe	Maybe	FALSE	43	Female	41-45	United States of America	Wisconsin	Always	
+r00908	I don't know	Yes	Yes	TRUE	28	Female	26-30	Germany		Never	100-500
+r00909	No	No	No	FALSE	46	Male	46-50	United Kingdom		Always	
+r00910	Yes	No	No	FALSE	42	Male	41-45	United States of America	California	Sometimes	More than 1000
+r00911	Yes	Yes	Maybe	TRUE	31	Male	31-35	United States of America	New York	Sometimes	1-5
+r00912	No	Yes	Yes	TRUE	37	Female	36-40	United States of America	Pennsylvania	Never	
+r00913	Yes	Yes	Yes	TRUE	35	Male	31-35	Canada		Never	6-25
+r00914	No	No	Maybe	FALSE	30	Female	26-30	United States of America	Minnesota	Always	
+r00915	Yes	Yes	Yes	TRUE	35	Male	31-35	Australia		Sometimes	26-100
+r00916	Yes	Yes	Yes	TRUE	24	Male	20-25	United States of America	California	Never	26-100
+r00917	No	No	No	FALSE	23	Male	20-25	India		Sometimes	6-25
+r00918	Yes	Yes	Maybe	TRUE	39	Female	36-40	France		Always	
+r00919	No	No	No	FALSE	38	Male	36-40	France		Always	6-25
+r00920	Yes	Yes	Yes	TRUE	28	Male	26-30	United Kingdom		Always	
+r00921	No	Maybe	No	FALSE	30	Male	26-30	United Kingdom		Sometimes	
+r00922	No	Maybe	Maybe	FALSE	38	Male	36-40	United Kingdom		Always	
+r00923	No	No	No	FALSE	33	Male	31-35	France		Sometimes	26-100
+r00924	No	No	No	FALSE	35	Male	31-35	United Kingdom		Sometimes	26-100
+r00925	No	No	No	FALSE	54	Male	51-55	United Kingdom		Never	
+r00926	I don't know	No	No	FALSE	30	Female	26-30	Germany		Never	100-500
+r00927	I don't know	No	No	FALSE	32	Female	31-35	United Kingdom		Always	
+r00928	Yes	Maybe	Maybe	FALSE	28	Male	26-30	United States of America	North Carolina	Sometimes	500-1000
+r00929	I don't know	Yes	No	TRUE	39	Male	36-40	Germany		Sometimes	6-25
+r00930	Yes	Yes	Yes	TRUE	21	Trans/Other	20-25	United States of America	New Jersey	Always	1-5
+r00931	Yes	No	No	FALSE	31	Male	31-35	Germany		Sometimes	6-25
+r00932	No	No	Maybe	FALSE	30	Male	26-30	United States of America	Washington	Sometimes	More than 1000
+r00933	No	No	No	FALSE	25	Female	20-25	United States of America	Pennsylvania	Sometimes	26-100
+r00934	No	No	No	FALSE	26	Male	26-30	United Kingdom		Always	6-25
+r00935	No	Maybe	No	FALSE	30	Male	26-30	United States of America	Pennsylvania	Never	26-100
+r00936	No	No	No	FALSE	30	Male	26-30	Italy		Never	500-1000
+r00937	No	No	No	FALSE	31	Male	31-35	Bulgaria		Always	100-500
+r00938	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	North Carolina	Never	100-500
+r00939	Yes	Yes	Yes	TRUE	45	Female	41-45	United Kingdom		Always	26-100
+r00940	Yes	Maybe	Maybe	FALSE	29	Male	26-30	Switzerland		Sometimes	
+r00941	Yes	Yes	Maybe	FALSE	27	Male	26-30	United States of America	Pennsylvania	Always	26-100
+r00942	I don't know	Yes	Yes	FALSE	28	Female	26-30	United Kingdom		Always	26-100
+r00943	Yes	No	No	FALSE	38	Male	36-40	United States of America	Michigan	Always	500-1000
+r00944	Yes	Yes	Yes	TRUE	38	Male	36-40	United States of America	Minnesota	Sometimes	500-1000
+r00945	Yes	Yes	No	TRUE	34	Male	31-35	Hungary		Sometimes	More than 1000
+r00946	I don't know	Yes	No	TRUE	36	Male	36-40	Netherlands		Sometimes	
+r00947	No	No	No	FALSE	23	Male	20-25	France		Sometimes	6-25
+r00948	Yes	Yes	Maybe	TRUE	40	Female	36-40	United States of America	Texas	Sometimes	100-500
+r00949	No	Yes	Yes	TRUE	39	Male	36-40	United States of America	Michigan	Always	
+r00950	Yes	Yes	Maybe	TRUE	28	Male	26-30	United States of America	Texas	Never	26-100
+r00951	No	No	No	FALSE	33	Male	31-35	United States of America	Tennessee	Sometimes	6-25
+r00952	I don't know	Yes	Maybe	TRUE	32	Male	31-35	United States of America	Georgia	Always	
+r00953	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	Minnesota	Never	More than 1000
+r00954	Yes	Yes	Maybe	TRUE	27	Male	26-30	United States of America	Colorado	Never	More than 1000
+r00955	No	Yes	No	TRUE	33	Male	31-35	Israel		Never	100-500
+r00956	Yes	No	No	FALSE	34	Male	31-35	Japan		Never	100-500
+r00957	I don't know	Yes	Maybe	TRUE	38	Female	36-40	India		Sometimes	
+r00958	I don't know	No	No	FALSE	35	Male	31-35	United States of America	Illinois	Never	More than 1000
+r00959	No	Maybe	No	FALSE	39	Male	36-40	United States of America	Maryland	Sometimes	26-100
+r00960	No	No	No	FALSE	35	Male	31-35	United States of America	Minnesota	Never	More than 1000
+r00961	No	No	Yes	FALSE	34	Male	31-35	United States of America	Utah	Sometimes	100-500
+r00962	Yes	Yes	Yes	TRUE	44	Female	41-45	United States of America	Massachusetts	Always	
+r00963	No	Yes	No	FALSE	42	Male	41-45	United States of America	Massachusetts	Always	500-1000
+r00964	No	No	No	FALSE	30	Male	26-30	United States of America	Florida	Always	6-25
+r00965	Yes	Maybe	Maybe	FALSE	55	Male	51-55	United States of America	Illinois	Never	26-100
+r00966	Yes	Maybe	Maybe	TRUE	46	Male	46-50	United States of America	California	Sometimes	26-100
+r00967	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	New Hampshire	Sometimes	100-500
+r00968	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	Massachusetts	Sometimes	26-100
+r00969	Yes	Yes	Yes	TRUE	30	Male	26-30	United Kingdom		Sometimes	26-100
+r00970	I don't know	Maybe	Maybe	FALSE	31	Female	31-35	United States of America	Massachusetts	Never	More than 1000
+r00971	No	Yes	Yes	TRUE	38	Male	36-40	Ireland		Sometimes	More than 1000
+r00972	Yes	No	No	FALSE	30	Female	26-30	United Kingdom		Sometimes	100-500
+r00973	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	Utah	Sometimes	500-1000
+r00974	I don't know	Yes	Yes	TRUE	32	Male	31-35	United Kingdom		Never	More than 1000
+r00975	Yes	Yes	Yes	TRUE	47	Male	46-50	United States of America	Utah	Sometimes	26-100
+r00976	I don't know	Maybe	Maybe	FALSE	39	Male	36-40	United Kingdom		Always	6-25
+r00977	Yes	Yes	Yes	TRUE	35	Male	31-35	United States of America	Texas	Sometimes	100-500
+r00978	No	Yes	Yes	TRUE	36	Male	36-40	United States of America	Maine	Sometimes	100-500
+r00979	No	No	No	FALSE	38	Female	36-40	United States of America	Michigan	Always	100-500
+r00980	I don't know	Yes	Maybe	FALSE	30	Male	26-30	United States of America	Washington	Sometimes	100-500
+r00981	Yes	Maybe	No	FALSE	33	Male	31-35	United States of America	Michigan	Sometimes	26-100
+r00982	Yes	Yes	Yes	FALSE	22	Male	20-25	United States of America	Massachusetts	Never	6-25
+r00983	No	Yes	Maybe	TRUE	35	Male	31-35	United States of America	Michigan	Always	
+r00984	I don't know	No	No	FALSE	26	Male	26-30	United States of America	Michigan	Never	26-100
+r00985	No	Maybe	Maybe	FALSE	34	Male	31-35	United States of America	Michigan	Always	100-500
+r00986	Yes	Maybe	Maybe	FALSE	40	Male	36-40	United States of America	Michigan	Sometimes	
+r00987	No	Maybe	Yes	TRUE	37	Male	36-40	Bulgaria		Always	100-500
+r00988	No	No	No	FALSE	43	Male	41-45	Switzerland		Sometimes	1-5
+r00989	I don't know	Yes	Yes	TRUE	20	Male	20-25	United States of America	Illinois	Sometimes	
+r00990	Yes	Yes	Yes	TRUE	30	Female	26-30	United States of America	Minnesota	Sometimes	500-1000
+r00991	Yes	Maybe	Maybe	FALSE	32	Male	31-35	United States of America	Washington	Sometimes	More than 1000
+r00992	No	No	No	FALSE	35	Male	31-35	United States of America	Minnesota	Always	More than 1000
+r00993	No	No	No	FALSE	29	Male	26-30	United States of America	Pennsylvania	Sometimes	26-100
+r00994	I don't know	Yes	Maybe	FALSE	29	Male	26-30	United States of America	Ohio	Never	500-1000
+r00995	I don't know	No	No	FALSE	30	Male	26-30	United States of America	Montana	Always	More than 1000
+r00996	Yes	Maybe	Yes	FALSE	30	Male	26-30	United States of America	Washington	Never	100-500
+r00997	Yes	Yes	Yes	TRUE	38	Male	36-40	United States of America	Tennessee	Always	100-500
+r00998	Yes	Yes	Maybe	FALSE	30	Male	26-30	Brazil		Never	26-100
+r00999	Yes	No	Yes	TRUE	26	Male	26-30	Netherlands		Never	26-100
+r01000	No	Yes	Yes	TRUE	27	Male	26-30	Germany		Always	
+r01001	No	No	No	FALSE	24	Male	20-25	United States of America	Ohio	Always	1-5
+r01002	No	No	No	FALSE	35	Male	31-35	United States of America	Washington	Never	100-500
+r01003	No	Maybe	Maybe	TRUE	38	Male	36-40	Sweden		Sometimes	More than 1000
+r01004	No	Yes	Yes	TRUE	36	Trans/Other	36-40	United States of America	California	Sometimes	100-500
+r01005	No	Yes	Yes	TRUE	34	Male	31-35	United Kingdom		Always	
+r01006	I don't know	Yes	Maybe	TRUE	35	Male	31-35	United States of America	Colorado	Sometimes	26-100
+r01007	I don't know	No	No	FALSE	25	Male	20-25	United States of America	Ohio	Sometimes	6-25
+r01008	No	Yes	Maybe	TRUE	32	Female	31-35	Sweden		Never	100-500
+r01009	Yes	No	No	FALSE	32	Female	31-35	United States of America	New York	Never	100-500
+r01010	Yes	Maybe	Maybe	TRUE	37	Male	36-40	United States of America	California	Sometimes	
+r01011	No	Yes	Maybe	FALSE	28	Male	26-30	Germany		Sometimes	100-500
+r01012	I don't know	Maybe	No	FALSE	34	Female	31-35	United Kingdom		Sometimes	500-1000
+r01013	Yes	Yes	Yes	TRUE	40	Female	36-40	United States of America	Wisconsin	Never	More than 1000
+r01014	I don't know	Yes	No	TRUE	45	Male	41-45	United States of America	Washington	Never	More than 1000
+r01015	Yes	No	No	FALSE	31	Male	31-35	Sweden		Sometimes	100-500
+r01016	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	Washington	Sometimes	More than 1000
+r01017	No	No	No	FALSE	47	Female	46-50	United Kingdom		Sometimes	More than 1000
+r01018	No	No	No	FALSE	48	Male	46-50	United Kingdom		Sometimes	100-500
+r01019	Yes	Yes	Yes	FALSE	44	Male	41-45	United States of America	Ohio	Sometimes	
+r01020	Yes	Maybe	Maybe	TRUE	29	Male	26-30	United States of America	Colorado	Never	More than 1000
+r01021	No	No	No	FALSE	52	Male	51-55	United States of America	Missouri	Always	More than 1000
+r01022	No	Yes	No	FALSE	34	Female	31-35	Sweden		Sometimes	100-500
+r01023	No	No	No	FALSE	34	Male	31-35	Netherlands		Never	100-500
+r01024	No	No	No	FALSE	27	Male	26-30	United States of America	Washington	Sometimes	More than 1000
+r01025	I don't know	Maybe	Maybe	FALSE	30	Male	26-30	Russia		Sometimes	More than 1000
+r01026	Yes	Yes	Maybe	FALSE	40	Male	36-40	United Kingdom		Sometimes	6-25
+r01027	Yes	Yes	Yes	FALSE	26	Male	26-30	Canada		Always	
+r01028	Yes	No	No	FALSE	36	Male	36-40	United Kingdom		Never	
+r01029	Yes	Yes	Yes	FALSE	35	Male	31-35	United Kingdom		Always	26-100
+r01030	No	No	No	FALSE	43	Female	41-45	United Kingdom		Never	More than 1000
+r01031	I don't know	Yes	Yes	TRUE	36	Female	36-40	United Kingdom		Sometimes	26-100
+r01032	No	No	No	FALSE	32	Female	31-35	United States of America	Georgia	Sometimes	100-500
+r01033	No	No	No	FALSE	36	Female	36-40	Ireland		Always	
+r01034	Yes	Yes	Yes	TRUE	38	Male	36-40	New Zealand		Never	More than 1000
+r01035	No	Yes	Maybe	FALSE	35	Male	31-35	United States of America	California	Always	More than 1000
+r01036	Yes	Yes	Yes	TRUE	35	Female	31-35	Australia		Sometimes	100-500
+r01037	Yes	No	Yes	TRUE	45	Male	41-45	United States of America	Massachusetts	Always	More than 1000
+r01038	No	Maybe	No	FALSE	47	Male	46-50	New Zealand		Always	
+r01039	Yes	No	No	FALSE	27	Male	26-30	United States of America	Colorado	Sometimes	100-500
+r01040	Yes	Yes	No	TRUE	26	Male	26-30	United States of America	Illinois	Sometimes	26-100
+r01041	No	Yes	No	TRUE	51	Male	51-55	Australia		Always	
+r01042	Yes	Yes	Yes	TRUE	25	Male	20-25	Ecuador		Sometimes	26-100
+r01043	No	Maybe	Maybe	FALSE	41	Male	41-45	South Africa		Sometimes	100-500
+r01044	No	No	No	FALSE	34	Male	31-35	United States of America	Illinois	Sometimes	More than 1000
+r01045	Yes	No	No	FALSE	43	Male	41-45	Sweden		Never	100-500
+r01046	Yes	Yes	Yes	TRUE	33	Male	31-35	United Kingdom		Never	26-100
+r01047	No	No	No	FALSE	37	Male	36-40	Australia		Sometimes	
+r01048	Yes	Yes	Yes	TRUE	27	Female	26-30	United Kingdom		Never	26-100
+r01049	Yes	Yes	Yes	TRUE	54	Female	51-55	United States of America	California	Sometimes	
+r01050	Yes	No	No	FALSE	38	Male	36-40	Italy		Never	More than 1000
+r01051	I don't know	Yes	No	TRUE	42	Male	41-45	Germany		Sometimes	More than 1000
+r01052	No	Maybe	No	FALSE	30	Male	26-30	United Kingdom		Sometimes	26-100
+r01053	Yes	Yes	No	TRUE	43	Male	41-45	Australia		Sometimes	500-1000
+r01054	I don't know	Yes	Yes	TRUE	33	Male	31-35	Netherlands		Never	
+r01055	Yes	No	No	FALSE	37	Female	36-40	Australia		Always	1-5
+r01056	No	Yes	Yes	TRUE	25	Male	20-25	United States of America	Virginia	Sometimes	100-500
+r01057	Yes	Yes	Yes	TRUE	27	Male	26-30	Australia		Sometimes	More than 1000
+r01058	Yes	Yes	Yes	TRUE	27	Male	26-30	Canada		Sometimes	
+r01059	No	Yes	Yes	TRUE	27	Male	26-30	United States of America	Texas	Never	More than 1000
+r01060	No	No	Maybe	FALSE	35	Male	31-35	Germany		Sometimes	
+r01061	No	Yes	Maybe	FALSE	24	Male	20-25	United Kingdom		Never	6-25
+r01062	Yes	Yes	Yes	TRUE	31	Trans/Other	31-35	Switzerland		Never	100-500
+r01063	No	Maybe	Maybe	FALSE	31	Male	31-35	Germany		Sometimes	26-100
+r01064	No	No	No	FALSE	32	Male	31-35	United States of America	California	Sometimes	More than 1000
+r01065	No	Yes	Yes	TRUE	33	Male	31-35	Australia		Sometimes	More than 1000
+r01066	Yes	Yes	Yes	TRUE	56	Male	56-60	United States of America	California	Sometimes	
+r01067	Yes	Yes	Maybe	FALSE	43	Male	41-45	United States of America	California	Sometimes	More than 1000
+r01068	I don't know	Yes	Yes	TRUE	49	Male	46-50	Australia		Sometimes	More than 1000
+r01069	No	Maybe	No	FALSE	35	Male	31-35	Bulgaria		Sometimes	26-100
+r01070	No	Yes	No	TRUE	53	Male	51-55	Canada		Sometimes	More than 1000
+r01071	Yes	Yes	Yes	TRUE	45	Male	41-45	United States of America	Maryland	Never	100-500
+r01072	I don't know	No	Maybe	FALSE	40	Male	36-40	United States of America	Massachusetts	Sometimes	100-500
+r01073	Yes	Yes	No	FALSE	52	Male	51-55	United States of America	New Hampshire	Sometimes	More than 1000
+r01074	I don't know	Yes	Maybe	TRUE	30	Male	26-30	France		Always	
+r01075	No	Yes	No	TRUE	41	Male	41-45	New Zealand		Always	More than 1000
+r01076	I don't know	Yes	Maybe	TRUE	31	Male	31-35	Netherlands		Always	
+r01077	I don't know	No	Maybe	FALSE	31	Male	31-35	Switzerland		Sometimes	100-500
+r01078	Yes	Maybe	Maybe	FALSE	24	Trans/Other	20-25	United States of America	New Mexico	Sometimes	
+r01079	Yes	Yes	Maybe	TRUE	44	Male	41-45	Australia		Sometimes	100-500
+r01080	Yes	Yes	Yes	TRUE	37	Male	36-40	United States of America	Wisconsin	Sometimes	More than 1000
+r01081	Yes	No	Yes	TRUE	22	Male	20-25	Brazil		Always	6-25
+r01082	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Tennessee	Sometimes	26-100
+r01083	I don't know	No	Maybe	FALSE	36	Female	36-40	Bulgaria		Sometimes	26-100
+r01084	Yes	Yes	Yes	TRUE	28	Male	26-30	Romania		Always	
+r01085	Yes	No	No	FALSE	25	Female	20-25	United States of America	Iowa	Sometimes	500-1000
+r01086	I don't know	Maybe	Maybe	FALSE	49	Male	46-50	United States of America	Kentucky	Always	
+r01087	Yes	Yes	Yes	TRUE	22	Female	20-25	United States of America	New Jersey	Always	1-5
+r01088	No	Yes	Yes	TRUE	43	Male	41-45	United States of America	Massachusetts	Sometimes	
+r01089	Yes	Maybe	Maybe	TRUE	33	Male	31-35	United States of America	Indiana	Never	
+r01090	I don't know	Yes	Maybe	TRUE	36	Female	36-40	United States of America	Kentucky	Sometimes	500-1000
+r01091	Yes	Yes	Yes	TRUE	26	Female	26-30	United States of America	California	Sometimes	26-100
+r01092	Yes	Yes	Yes	TRUE	43	Male	41-45	United States of America	Tennessee	Sometimes	More than 1000
+r01093	Yes	Yes	Maybe	FALSE	21	Male	20-25	United States of America	New York	Sometimes	
+r01094	Yes	Yes	No	TRUE	39	Male	36-40	Australia		Sometimes	More than 1000
+r01095	I don't know	Yes	Yes	TRUE	46	Male	46-50	United Kingdom		Sometimes	More than 1000
+r01096	Yes	Yes	No	FALSE	32	Male	31-35	United Kingdom		Sometimes	1-5
+r01097	No	No	No	FALSE	31	Male	31-35	United Kingdom		Sometimes	
+r01098	Yes	Yes	No	TRUE	39	Female	36-40	Germany		Sometimes	
+r01099	I don't know	Maybe	Maybe	TRUE	44	Male	41-45	Sweden		Sometimes	100-500
+r01100	Yes	Yes	Yes	TRUE	36	Male	36-40	United States of America	California	Never	More than 1000
+r01101	No	No	No	FALSE	31	Female	31-35	United Kingdom		Never	More than 1000
+r01102	Yes	Yes	Yes	TRUE	30	Trans/Other	26-30	United States of America	Colorado	Sometimes	
+r01103	Yes	Yes	Yes	TRUE	36	Male	36-40	United States of America	Idaho	Sometimes	100-500
+r01104	No	No	No	FALSE	31	Male	31-35	United States of America	New Mexico	Sometimes	
+r01105	No	No	No	FALSE	23	Male	20-25	Canada		Never	1-5
+r01106	I don't know	No	Yes	TRUE	23	Male	20-25	Canada		Always	26-100
+r01107	Yes	Yes	Yes	TRUE	30	Female	26-30	United States of America	Washington	Always	
+r01108	I don't know	No	No	FALSE	34	Male	31-35	Canada		Always	
+r01109	No	No	No	FALSE	49	Female	46-50	United States of America	Georgia	Sometimes	6-25
+r01110	I don't know	No	Maybe	FALSE	25	Male	20-25	Bosnia and Herzegovina		Never	6-25
+r01111	No	Maybe	Maybe	FALSE	39	Male	36-40	United Kingdom		Sometimes	6-25
+r01112	No	No	No	FALSE	37	Male	36-40	Germany		Never	More than 1000
+r01113	No	No	No	FALSE	26	Male	26-30	United States of America	California	Sometimes	26-100
+r01114	Yes	Yes	Yes	TRUE	41	Male	41-45	United States of America	Michigan	Sometimes	100-500
+r01115	No	No	No	FALSE	28	Male	26-30	Netherlands		Never	6-25
+r01116	I don't know	Yes	Maybe	TRUE	33	Male	31-35	Sweden		Sometimes	100-500
+r01117	No	No	No	FALSE	74	Female	Over 65	United States of America	California	Sometimes	100-500
+r01118	Yes	Yes	Yes	TRUE	28	Male	26-30	Netherlands		Sometimes	100-500
+r01119	Yes	Yes	Yes	TRUE	47	Male	46-50	United States of America	Illinois	Sometimes	6-25
+r01120	I don't know	No	Maybe	FALSE	25	Male	20-25	Bosnia and Herzegovina		Never	100-500
+r01121	Yes	Yes	No	TRUE	51	Male	51-55	United States of America	Rhode Island	Never	100-500
+r01122	No	Yes	Yes	TRUE	26	Male	26-30	United States of America	California	Never	More than 1000
+r01123	Yes	Maybe	Maybe	FALSE	24	Male	20-25	United States of America	Ohio	Never	26-100
+r01124	I don't know	Yes	Maybe	TRUE	33	Female	31-35	United States of America	North Carolina	Always	
+r01125	Yes	Yes	Yes	TRUE	32	Female	31-35	United States of America	North Carolina	Sometimes	26-100
+r01126	No	No	No	FALSE	57	Male	56-60	United States of America	North Carolina	Always	6-25
+r01127	Yes	Yes	Yes	TRUE	39	Male	36-40	United States of America	North Carolina	Never	More than 1000
+r01128	Yes	Yes	Yes	TRUE	26	Female	26-30	United States of America	Illinois	Sometimes	6-25
+r01129	Yes	Maybe	Maybe	FALSE	38	Male	36-40	United States of America	Colorado	Sometimes	100-500
+r01130	Yes	Yes	No	TRUE	33	Male	31-35	Finland		Sometimes	1-5
+r01131	Yes	Maybe	Maybe	FALSE	30	Male	26-30	United States of America	Ohio	Sometimes	6-25
+r01132	Yes	Yes	Yes	TRUE	25	Female	20-25	United States of America	Illinois	Sometimes	100-500
+r01133	Yes	Yes	Yes	TRUE	40	Male	36-40	United States of America	Michigan	Sometimes	26-100
+r01134	Yes	Yes	Yes	TRUE	26	Female	26-30	United States of America	Illinois	Sometimes	More than 1000
+r01135	Yes	Yes	Yes	TRUE	34	Male	31-35	United States of America	South Dakota	Never	More than 1000
+r01136	Yes	Yes	Maybe	TRUE	46	Female	46-50	United States of America	Michigan	Sometimes	More than 1000
+r01137	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Ohio	Sometimes	More than 1000
+r01138	Yes	Maybe	Yes	TRUE	42	Male	41-45	Ireland		Never	
+r01139	No	No	No	FALSE	30	Male	26-30	United States of America	Michigan	Sometimes	More than 1000
+r01140	Yes	Yes	Yes	TRUE	26	Trans/Other	26-30	United States of America	Indiana	Always	
+r01141	No	Yes	Maybe	TRUE	29	Male	26-30	Austria		Never	1-5
+r01142	Yes	Yes	Yes	TRUE	31	Male	31-35	United States of America	California	Never	100-500
+r01143	I don't know	Yes	No	TRUE	40	Male	36-40	United States of America	Pennsylvania	Always	26-100
+r01144	I don't know	Maybe	Yes	TRUE	39	Male	36-40	United States of America	Texas	Always	26-100
+r01145	No	No	Maybe	FALSE	37	Male	36-40	United States of America	Michigan	Sometimes	26-100
+r01146	No	No	No	FALSE	27	Male	26-30	United States of America	Virginia	Always	26-100
+r01147	No	No	No	FALSE	45	Male	41-45	United States of America	Alabama	Always	26-100
+r01148	Yes	No	No	FALSE	29	Male	26-30	United States of America	Michigan	Sometimes	26-100
+r01149	No	No	No	FALSE	47	Female	46-50	United States of America	Michigan	Sometimes	26-100
+r01150	No	No	No	FALSE	33	Male	31-35	United States of America	Oklahoma	Always	100-500
+r01151	No	No	No	FALSE	32	Male	31-35	United States of America	Washington	Always	26-100
+r01152	No	No	No	FALSE	29	Male	26-30	United States of America	Michigan	Sometimes	26-100
+r01153	Yes	Yes	Yes	TRUE	36	Male	36-40	United States of America	Michigan	Sometimes	26-100
+r01154	I don't know	No	No	FALSE	35	Female	31-35	United States of America	Oklahoma	Never	6-25
+r01155	Yes	Maybe	No	FALSE	40	Male	36-40	United States of America	Alaska	Always	26-100
+r01156	Yes	Yes	Yes	TRUE	36	Male	36-40	United States of America	Delaware	Always	26-100
+r01157	I don't know	Maybe	No	FALSE	39	Female	36-40	United States of America	Oklahoma	Sometimes	More than 1000
+r01158	No	No	Maybe	FALSE	38	Male	36-40	United States of America	Alaska	Always	26-100
+r01159	I don't know	Maybe	Maybe	TRUE	23	Male	20-25	United States of America	Oklahoma	Sometimes	1-5
+r01160	Yes	No	No	FALSE	29	Male	26-30	United States of America	Oklahoma	Sometimes	500-1000
+r01161	No	No	No	FALSE	38	Male	36-40	United States of America	Pennsylvania	Always	100-500
+r01162	Yes	Yes	Yes	TRUE	34	Female	31-35	United States of America	Ohio	Sometimes	More than 1000
+r01163	Yes	Yes	Yes	TRUE	28	Male	26-30	Brazil		Never	More than 1000
+r01164	Yes	Yes	Yes	TRUE	38	Male	36-40	New Zealand		Sometimes	6-25
+r01165	I don't know	Maybe	Maybe	FALSE	25	Female	20-25	United States of America	North Carolina	Never	26-100
+r01166	Yes	Yes	Yes	TRUE	36	Female	36-40	United States of America	Michigan	Sometimes	More than 1000
+r01167	Yes	Yes	Yes	TRUE	57	Female	56-60	United States of America	Colorado	Sometimes	More than 1000
+r01168	Yes	Yes	No	TRUE	46	Male	46-50	Ireland		Sometimes	More than 1000
+r01169	Yes	Yes	Yes	TRUE	49	Male	46-50	United States of America	California	Never	More than 1000
+r01170	No	Yes	No	TRUE	34	Male	31-35	United States of America	North Carolina	Never	More than 1000
+r01171	No	No	No	FALSE	43	Male	41-45	United Kingdom		Sometimes	26-100
+r01172	No	Yes	Yes	TRUE	35	Male	31-35	Ireland		Sometimes	
+r01173	No	Yes	No	TRUE	32	Male	31-35	United States of America	Nebraska	Always	
+r01174	I don't know	No	Yes	FALSE	24	Trans/Other	20-25	Sweden		Sometimes	More than 1000
+r01175	Yes	Yes	Yes	TRUE	33	Male	31-35	United States of America	California	Sometimes	More than 1000
+r01176	Yes	No	Maybe	FALSE	28	Male	26-30	Finland		Never	1-5
+r01177	Yes	No	Maybe	TRUE	48	Male	46-50	Germany		Sometimes	More than 1000
+r01178	I don't know	Yes	Yes	TRUE	33	Female	31-35	United States of America	Georgia	Always	26-100
+r01179	No	No	No	FALSE	40	Male	36-40	Italy		Never	100-500
+r01180	Yes	Yes	Yes	TRUE	22	Male	20-25	United States of America	California	Sometimes	
+r01181	Yes	Yes	Yes	TRUE	22	Female	20-25	United States of America	Texas	Never	100-500
+r01182	I don't know	Yes	Yes	TRUE	23	Female	20-25	United States of America	Washington	Sometimes	100-500
+r01183	Yes	Yes	No	TRUE	33	Male	31-35	Germany		Never	More than 1000
+r01184	I don't know	Yes	Maybe	TRUE	29	Male	26-30	Netherlands		Never	6-25
+r01185	No	No	Yes	TRUE	32	Male	31-35	United States of America	Washington	Always	More than 1000
+r01186	Yes	Yes	Yes	TRUE	43	Male	41-45	United States of America	Tennessee	Sometimes	26-100
+r01187	Yes	Yes	Yes	FALSE	49	Male	46-50	United States of America	Minnesota	Sometimes	More than 1000
+r01188	No	No	No	FALSE	44	Male	41-45	Italy		Always	More than 1000
+r01189	Yes	Yes	Yes	FALSE	29	Male	26-30	United States of America	Vermont	Always	
+r01190	Yes	No	No	FALSE	27	Male	26-30	Canada		Never	26-100
+r01191	No	No	Maybe	FALSE	30	Male	26-30	United States of America	North Dakota	Never	6-25
+r01192	Yes	No	No	FALSE	43	Female	41-45	United States of America	California	Sometimes	1-5
+r01193	No	Yes	Yes	TRUE	30	Female	26-30	United States of America	Minnesota	Sometimes	26-100
+r01194	Yes	Yes	Yes	TRUE	33	Female	31-35	United States of America	Ohio	Sometimes	26-100
+r01195	Yes	Yes	Yes	TRUE	27	Female	26-30	United States of America	Texas	Sometimes	
+r01196	Yes	Yes	Yes	FALSE	26	Female	26-30	United States of America	Minnesota	Never	6-25
+r01197	Yes	Yes	No	TRUE	47	Male	46-50	Ireland		Sometimes	100-500
+r01198	I don't know	Yes	Yes	FALSE	30	Male	26-30	United States of America	Minnesota	Never	6-25
+r01199	Yes	No	No	FALSE	39	Male	36-40	United States of America	Oregon	Never	6-25
+r01200	No	Maybe	Maybe	FALSE	36	Male	36-40	United States of America	California	Never	100-500
+r01201	Yes	Yes	No	FALSE	34	Male	31-35	United Kingdom		Always	6-25
+r01202	Yes	Yes	Yes	TRUE	25	Female	20-25	United States of America	Minnesota	Never	26-100
+r01203	Yes	No	No	FALSE	28	Male	26-30	Finland		Sometimes	26-100
+r01204	Yes	Yes	Yes	TRUE	38	Male	36-40	United States of America	Indiana	Sometimes	More than 1000
+r01205	No	No	No	FALSE	39	Male	36-40	United States of America	Massachusetts	Always	100-500
+r01206	I don't know	Maybe	Maybe	FALSE	32	Male	31-35	United States of America	Minnesota	Never	6-25
+r01207	Yes	Yes	Yes	FALSE	27	Female	26-30	United States of America	New York	Never	26-100
+r01208	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Oregon	Sometimes	500-1000
+r01209	No	Yes	Maybe	FALSE	30	Female	26-30	United Kingdom		Never	26-100
+r01210	I don't know	No	No	FALSE	34	Male	31-35	United Kingdom		Sometimes	
+r01211	Yes	Maybe	Maybe	FALSE	26	Male	26-30	United States of America	Florida	Always	26-100
+r01212	No	Yes	No	TRUE	27	Female	26-30	United Kingdom		Always	100-500
+r01213	No	Yes	Yes	FALSE	29	Male	26-30	United States of America	Minnesota	Never	26-100
+r01214	Yes	Maybe	Maybe	FALSE	37	Female	36-40	Canada		Always	
+r01215	Yes	Yes	Yes	TRUE	49	Female	46-50	United States of America	Maryland	Always	
+r01216	No	No	No	FALSE	39	Male	36-40	United States of America	New York	Sometimes	More than 1000
+r01217	No	No	No	FALSE	42	Male	41-45	China		Sometimes	
+r01218	I don't know	Yes	Yes	TRUE	28	Male	26-30	United States of America	New York	Sometimes	500-1000
+r01219	I don't know	No	Yes	FALSE	33	Male	31-35	United States of America	Texas	Always	
+r01220	Yes	Maybe	No	FALSE	30	Female	26-30	United Kingdom		Sometimes	
+r01221	I don't know	Yes	Yes	TRUE	70	Male	Over 65	United States of America	California	Always	26-100
+r01222	Yes	Maybe	Maybe	TRUE	25	Male	20-25	Germany		Sometimes	6-25
+r01223	No	Yes	Yes	TRUE	45	Male	41-45	United Kingdom		Sometimes	26-100
+r01224	I don't know	Yes	Yes	TRUE	63	Female	61-65	United States of America	North Carolina	Never	More than 1000
+r01225	Yes	Maybe	Yes	FALSE	40	Male	36-40	United States of America	Colorado	Always	26-100
+r01226	Yes	Yes	Yes	TRUE	39	Male	36-40	United States of America	Florida	Sometimes	26-100
+r01227	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Oregon	Always	6-25
+r01228	I don't know	Yes	Yes	FALSE	34	Male	31-35	United States of America	California	Never	26-100
+r01229	Yes	Yes	Yes	TRUE	44	Male	41-45	United Kingdom		Sometimes	
+r01230	No	No	Maybe	FALSE	45	Male	41-45	Ireland		Always	500-1000
+r01231	Yes	Yes	Yes	TRUE	43	Male	41-45	United States of America	Alabama	Sometimes	100-500
+r01232	Yes	No	No	FALSE	29	Male	26-30	United States of America	Tennessee	Always	26-100
+r01233	Yes	Yes	Yes	TRUE	27	Trans/Other	26-30	United States of America	Texas	Always	100-500
+r01234	Yes	Yes	Yes	TRUE	37	Male	36-40	United States of America	New Mexico	Always	100-500
+r01235	Yes	Yes	Yes	TRUE	41	Trans/Other	41-45	United States of America	Wisconsin	Always	100-500
+r01236	Yes	Yes	Yes	TRUE	30	Female	26-30	United States of America	California	Sometimes	26-100
+r01237	Yes	Yes	Yes	TRUE	28	Male	26-30	United States of America	Maryland	Sometimes	26-100
+r01238	No	No	No	FALSE	28	Male	26-30	United States of America	Oregon	Sometimes	More than 1000
+r01239	Yes	Yes	Yes	TRUE	39	Male	36-40	Switzerland		Sometimes	
+r01240	Yes	Yes	Yes	FALSE	22	Male	20-25	United Kingdom		Sometimes	6-25
+r01241	I don't know	No	No	FALSE	31	Male	31-35	United States of America	Massachusetts	Sometimes	26-100
+r01242	I don't know	No	No	FALSE	29	Male	26-30	United Kingdom		Never	26-100
+r01243	No	Maybe	Maybe	FALSE	33	Male	31-35	Israel		Never	100-500
+r01244	No	No	No	FALSE	37	Male	36-40	Germany		Sometimes	100-500
+r01245	No	No	Maybe	FALSE	42	Male	41-45	United States of America	Texas	Always	100-500
+r01246	Yes	Yes	Yes	TRUE	31	Male	31-35	United Kingdom		Never	6-25
+r01247	Yes	Maybe	Yes	TRUE	34	Male	31-35	United States of America	Oregon	Always	
+r01248	I don't know	Yes	Yes	TRUE	49	Female	46-50	United States of America	Maryland	Always	
+r01249	Yes	Maybe	Maybe	FALSE	29	Male	26-30	Canada		Never	26-100
+r01250	No	Yes	Yes	TRUE	40	Male	36-40	United States of America	Iowa	Sometimes	More than 1000
+r01251	Yes	Yes	Yes	TRUE	46	Female	46-50	Netherlands		Sometimes	26-100
+r01252	Yes	Maybe	No	TRUE	31	Female	31-35	United States of America	Minnesota	Always	
+r01253	No	Maybe	Maybe	FALSE	43	Male	41-45	Denmark		Sometimes	100-500
+r01254	Yes	No	No	FALSE	45	Male	41-45	Germany		Sometimes	
+r01255	No	Maybe	Maybe	FALSE	32	Male	31-35	United Kingdom		Sometimes	6-25
+r01256	Yes	Yes	Yes	TRUE	38	Male	36-40	United States of America	Wisconsin	Sometimes	
+r01257	Yes	Yes	Yes	TRUE	40	Male	36-40	Netherlands		Sometimes	More than 1000
+r01258	I don't know	Yes	Yes	TRUE	38	Male	36-40	Germany		Never	26-100
+r01259	I don't know	Yes	Yes	TRUE	32	Male	31-35	United Kingdom		Never	100-500
+r01260	No	Yes	Maybe	FALSE	37	Male	36-40	Mexico		Sometimes	More than 1000
+r01261	Yes	Yes	Yes	TRUE	24	Male	20-25	Sweden		Sometimes	
+r01262	Yes	Maybe	Maybe	FALSE	25	Female	20-25	United States of America	Ohio	Always	
+r01263	Yes	No	No	FALSE	24	Male	20-25	United States of America	Minnesota	Sometimes	6-25
+r01264	Yes	No	No	FALSE	34	Female	31-35	United States of America	Ohio	Sometimes	More than 1000
+r01265	Yes	Yes	Yes	TRUE	55	Male	51-55	United States of America	Pennsylvania	Always	
+r01266	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	Minnesota	Sometimes	100-500
+r01267	No	No	No	FALSE	29	Male	26-30	Romania		Never	1-5
+r01268	No	No	No	FALSE	20	Male	20-25	United States of America	Massachusetts	Sometimes	More than 1000
+r01269	Yes	Maybe	Maybe	FALSE	41	Male	41-45	United States of America	Utah	Sometimes	More than 1000
+r01270	Yes	Yes	Yes	TRUE	33	Female	31-35	United States of America	California	Sometimes	6-25
+r01271	Yes	Yes	Maybe	TRUE	25	Male	20-25	United States of America	California	Sometimes	26-100
+r01272	I don't know	Maybe	No	FALSE	29	Male	26-30	United Kingdom		Sometimes	
+r01273	Yes	Yes	Yes	TRUE	24	Trans/Other	20-25	United States of America	California	Sometimes	More than 1000
+r01274	No	Yes	Yes	TRUE	39	Male	36-40	United States of America	Colorado	Sometimes	100-500
+r01275	Yes	No	No	FALSE	39	Male	36-40	United Kingdom		Sometimes	500-1000
+r01276	I don't know	Maybe	No	FALSE	44	Male	41-45	United Kingdom		Sometimes	
+r01277	Yes	Yes	Yes	TRUE	30	Female	26-30	Netherlands		Sometimes	
+r01278	Yes	No	No	FALSE	31	Male	31-35	Denmark		Sometimes	6-25
+r01279	Yes	Yes	Yes	TRUE	37	Male	36-40	United Kingdom		Always	1-5
+r01280	Yes	Yes	Yes	TRUE	42	Male	41-45	United Kingdom		Sometimes	6-25
+r01281	I don't know	Maybe	Maybe	FALSE	35	Male	31-35	Canada		Always	
+r01282	Yes	Yes	No	TRUE	30	Male	26-30	United States of America	North Carolina	Never	26-100
+r01283	No	No	No	FALSE	30	Male	26-30	Canada		Always	More than 1000
+r01284	Yes	Yes	Yes	FALSE	33	Male	31-35	United States of America	Illinois	Sometimes	26-100
+r01285	I don't know	No	Maybe	FALSE	31	Male	31-35	United States of America	Illinois	Never	More than 1000
+r01286	Yes	Yes	Yes	TRUE	39	Female	36-40	United States of America	Ohio	Sometimes	More than 1000
+r01287	No	No	No	FALSE	27	Male	26-30	Germany		Never	26-100
+r01288	No	Yes	Yes	TRUE	34	Male	31-35	United Kingdom		Sometimes	
+r01289	No	No	No	FALSE	31	Male	31-35	United States of America	Florida	Sometimes	6-25
+r01290	Yes	Yes	Yes	TRUE	30	Female	26-30	United States of America	Michigan	Always	More than 1000
+r01291	Yes	Yes	Yes	TRUE	34	Male	31-35	United States of America	Ohio	Sometimes	26-100
+r01292	I don't know	Maybe	Maybe	FALSE	20	Trans/Other	20-25	Canada		Never	6-25
+r01293	Yes	Yes	Yes	TRUE	39	Male	36-40	United States of America	Wisconsin	Never	
+r01294	Yes	Yes	Maybe	TRUE	50	Female	46-50	United States of America	Utah	Sometimes	More than 1000
+r01295	Yes	No	Yes	FALSE	22	Male	20-25	United States of America	California	Never	1-5
+r01296	I don't know	Maybe	Maybe	FALSE	41	Male	41-45	Spain		Sometimes	100-500
+r01297	No	No	Maybe	FALSE	37	Male	36-40	Germany		Sometimes	26-100
+r01298	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	Texas	Sometimes	100-500
+r01299	Yes	Yes	Maybe	TRUE	26	Male	26-30	Austria		Always	
+r01300	Yes	Maybe	Yes	FALSE	38	Male	36-40	Netherlands		Never	6-25
+r01301	Yes	No	Maybe	FALSE	21	Male	20-25	United Kingdom		Always	
+r01302	Yes	Yes	Yes	TRUE	27	Male	26-30	United States of America	Colorado	Sometimes	6-25
+r01303	Yes	Yes	Yes	TRUE	37	Female	36-40	United States of America	Louisiana	Sometimes	1-5
+r01304	I don't know	Yes	Maybe	FALSE	45	Male	41-45	United Kingdom		Always	
+r01305	No	No	No	FALSE	26	Male	26-30	United States of America	New York	Sometimes	
+r01306	Yes	Maybe	Maybe	FALSE	30	Female	26-30	United States of America	New York	Sometimes	6-25
+r01307	Yes	Yes	Yes	TRUE	21	Male	20-25	United States of America	Tennessee	Sometimes	More than 1000
+r01308	I don't know	Yes	Maybe	TRUE	21	Male	20-25	United States of America	Massachusetts	Sometimes	More than 1000
+r01309	No	No	No	FALSE	29	Male	26-30	Germany		Sometimes	
+r01310	No	No	No	FALSE	46	Male	46-50	United States of America	Missouri	Sometimes	More than 1000
+r01311	Yes	Yes	Yes	TRUE	28	Male	26-30	United States of America	California	Sometimes	500-1000
+r01312	Yes	Yes	Yes	TRUE	26	Trans/Other	26-30	United States of America	Pennsylvania	Never	100-500
+r01313	Yes	Yes	Yes	TRUE	37	Female	36-40	United States of America	Connecticut	Always	
+r01314	No	No	No	FALSE	44	Male	41-45	United States of America	Ohio	Sometimes	More than 1000
+r01315	Yes	Yes	Yes	TRUE	45	Female	41-45	United States of America	California	Always	
+r01316	I don't know	No	No	FALSE	35	Female	31-35	United States of America	Massachusetts	Always	1-5
+r01317	Yes	Yes	Yes	TRUE	39	Male	36-40	United States of America	Michigan	Never	26-100
+r01318	No	Yes	No	TRUE	37	Female	36-40	United States of America	Connecticut	Sometimes	More than 1000
+r01319	No	No	No	FALSE	35	Male	31-35	United States of America	Florida	Sometimes	100-500
+r01320	Yes	Yes	Yes	TRUE	29	Female	26-30	United States of America	New York	Never	More than 1000
+r01321	I don't know	Yes	No	TRUE	49	Female	46-50	United States of America	California	Never	
+r01322	I don't know	Yes	Yes	TRUE	21	Male	20-25	United States of America	Virginia	Sometimes	26-100
+r01323	Yes	Yes	Maybe	TRUE	26	Female	26-30	United States of America	Michigan	Sometimes	26-100
+r01324	Yes	Maybe	Maybe	TRUE	35	Male	31-35	Germany		Never	100-500
+r01325	No	Yes	Yes	TRUE	56	Male	56-60	United States of America	Missouri	Sometimes	100-500
+r01326	Yes	Yes	Yes	TRUE	53	Female	51-55	United States of America	Oregon	Always	
+r01327	Yes	Yes	Yes	TRUE	48	Female	46-50	United States of America	Colorado	Sometimes	
+r01328	No	No	No	FALSE	24	Male	20-25	United Kingdom		Never	26-100
+r01329	No	Yes	Yes	FALSE	37	Male	36-40	Ireland		Never	More than 1000
+r01330	Yes	Yes	Yes	TRUE	27	Female	26-30	United States of America	Pennsylvania	Never	26-100
+r01331	Yes	Yes	Yes	TRUE	39	Female	36-40	United States of America	Pennsylvania	Sometimes	1-5
+r01332	No	No	No	FALSE	31	Male	31-35	Finland		Sometimes	
+r01333	Yes	Yes	Yes	FALSE	34	Male	31-35	United States of America	Indiana	Always	100-500
+r01334	Yes	Yes	Yes	TRUE	33	Male	31-35	United Kingdom		Sometimes	More than 1000
+r01335	I don't know	Yes	Yes	FALSE	22	Male	20-25	United Kingdom		Never	1-5
+r01336	I don't know	No	No	FALSE	25	Female	20-25	United Kingdom		Sometimes	6-25
+r01337	No	No	No	FALSE	34	Male	31-35	United Kingdom		Never	More than 1000
+r01338	Yes	Maybe	Maybe	FALSE	30	Male	26-30	United Kingdom		Sometimes	6-25
+r01339	I don't know	Yes	Maybe	TRUE	37	Male	36-40	United Kingdom		Never	26-100
+r01340	No	Yes	Yes	FALSE	26	Male	26-30	Chile		Never	6-25
+r01341	No	Yes	Maybe	TRUE	29	Female	26-30	United States of America	Texas	Never	More than 1000
+r01342	I don't know	No	No	FALSE	29	Male	26-30	Chile		Sometimes	6-25
+r01343	Yes	Yes	Yes	TRUE	27	Male	26-30	United Kingdom		Never	26-100
+r01344	Yes	Yes	No	TRUE	27	Female	26-30	Chile		Sometimes	6-25
+r01345	No	No	No	FALSE	23	Male	20-25	United States of America	Massachusetts	Sometimes	More than 1000
+r01346	No	No	No	FALSE	24	Female	20-25	United States of America	Massachusetts	Sometimes	More than 1000
+r01347	I don't know	Yes	Yes	TRUE	22	Male	20-25	Guatemala		Sometimes	
+r01348	No	Maybe	No	FALSE	28	Male	26-30	United Kingdom		Never	1-5
+r01349	Yes	Yes	Yes	TRUE	22	Male	20-25	United States of America	Iowa	Never	6-25
+r01350	Yes	Maybe	Maybe	FALSE	32	Male	31-35	United States of America	Massachusetts	Sometimes	26-100
+r01351	No	Yes	Yes	TRUE	35	Female	31-35	United States of America	Oregon	Always	6-25
+r01352	No	Yes	Yes	TRUE	26	Male	26-30	United States of America	California	Sometimes	26-100
+r01353	I don't know	No	Yes	TRUE	31	Female	31-35	United Kingdom		Sometimes	More than 1000
+r01354	Yes	Yes	Yes	TRUE	32	Male	31-35	United States of America	Colorado	Sometimes	
+r01355	I don't know	Yes	Maybe	TRUE	37	Male	36-40	Pakistan		Sometimes	100-500
+r01356	No	Yes	Yes	TRUE	24	Male	20-25	United Kingdom		Never	6-25
+r01357	No	No	No	FALSE	33	Male	31-35	United States of America	Washington	Always	26-100
+r01358	I don't know	No	Yes	TRUE	28	Male	26-30	United States of America	Massachusetts	Sometimes	100-500
+r01359	I don't know	Maybe	Maybe	FALSE	22	Female	20-25	United States of America	Virginia	Sometimes	More than 1000
+r01360	Yes	Yes	Maybe	TRUE	46	Male	46-50	Germany		Sometimes	100-500
+r01361	I don't know	Maybe	Maybe	FALSE	30	Male	26-30	United States of America	Michigan	Always	26-100
+r01362	No	No	Yes	TRUE	29	Male	26-30	United States of America	North Carolina	Never	26-100
+r01363	Yes	No	Yes	FALSE	22	Male	20-25	United States of America	Virginia	Sometimes	100-500
+r01364	Yes	Yes	Yes	TRUE	24	Female	20-25	United States of America	Washington	Sometimes	
+r01365	No	Yes	Yes	FALSE	29	Female	26-30	Taiwan		Always	
+r01366	Yes	Yes	Maybe	TRUE	30	Male	26-30	United States of America	Virginia	Sometimes	More than 1000
+r01367	Yes	Maybe	Maybe	FALSE	25	Male	20-25	United States of America	Pennsylvania	Always	
+r01368	No	No	No	FALSE	39	Male	36-40	United States of America	Oregon	Sometimes	More than 1000
+r01369	No	Maybe	No	FALSE	31	Male	31-35	Serbia		Always	
+r01370	Yes	Yes	Yes	TRUE	25	Male	20-25	United States of America	Illinois	Sometimes	
+r01371	I don't know	No	No	FALSE	39	Male	36-40	United States of America	Maryland	Sometimes	500-1000
+r01372	Yes	Yes	Yes	TRUE	31	Female	31-35	United States of America	Texas	Always	More than 1000
+r01373	Yes	Yes	Maybe	FALSE	35	Male	31-35	United States of America	California	Sometimes	100-500
+r01374	No	Yes	Yes	TRUE	31	Female	31-35	United States of America	Illinois	Always	
+r01375	I don't know	Yes	Yes	TRUE	23	Male	20-25	United States of America	California	Sometimes	More than 1000
+r01376	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	Pennsylvania	Never	More than 1000
+r01377	Yes	No	No	FALSE	28	Male	26-30	France		Sometimes	6-25
+r01378	Yes	Yes	Yes	TRUE	23	Female	20-25	Ireland		Never	More than 1000
+r01379	Yes	Maybe	Yes	TRUE	26	Female	26-30	United States of America	District of Columbia	Never	26-100
+r01380	Yes	Yes	Maybe	TRUE	24	Female	20-25	United States of America	California	Never	26-100
+r01381	No	No	No	FALSE	32	Male	31-35	United States of America	Washington	Never	More than 1000
+r01382	Yes	Yes	Yes	TRUE	35	Male	31-35	United States of America	California	Always	
+r01383	No	Yes	Maybe	FALSE	30	Male	26-30	Estonia		Sometimes	100-500
+r01384	No	Yes	Yes	TRUE	32	Male	31-35	United States of America	Texas	Sometimes	26-100
+r01385	No	Yes	Maybe	TRUE	35	Male	31-35	United States of America	Missouri	Never	6-25
+r01386	I don't know	Maybe	Maybe	TRUE	26	Female	26-30	United States of America	Ohio	Always	26-100
+r01387	Yes	Yes	Yes	TRUE	30	Female	26-30	United States of America	Nebraska	Sometimes	100-500
+r01388	I don't know	Yes	Maybe	FALSE	29	Male	26-30	United States of America	California	Never	26-100
+r01389	No	No	No	FALSE	39	Male	36-40	Canada		Always	More than 1000
+r01390	Yes	Yes	Maybe	TRUE	37	Male	36-40	United Kingdom		Never	More than 1000
+r01391	No	No	No	FALSE	35	Male	31-35	United States of America	California	Sometimes	26-100
+r01392	Yes	Yes	Yes	TRUE	25	Female	20-25	United States of America	Illinois	Sometimes	1-5
+r01393	Yes	Yes	Maybe	TRUE	22	Trans/Other	20-25	United States of America	Virginia	Never	More than 1000
+r01394	Yes	Yes	Maybe	TRUE	33	Male	31-35	United Kingdom		Never	26-100
+r01395	Yes	Yes	Yes	TRUE	23	Male	20-25	United States of America	New York	Sometimes	1-5
+r01396	Yes	Yes	Yes	TRUE	29	Male	26-30	Brazil		Sometimes	
+r01397	Yes	Yes	Yes	TRUE	28	Male	26-30	United States of America	Pennsylvania	Always	26-100
+r01398	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	New York	Never	More than 1000
+r01399	Yes	Maybe	Yes	TRUE	28	Male	26-30	United States of America	California	Sometimes	100-500
+r01400	Yes	Yes	Maybe	TRUE	28	Female	26-30	United States of America	Pennsylvania	Always	6-25
+r01401	Yes	Yes	Yes	TRUE	37	Male	36-40	United States of America	Massachusetts	Never	More than 1000
+r01402	Yes	Yes	Yes	TRUE	30	Male	26-30	United States of America	Idaho	Sometimes	26-100
+r01403	Yes	Yes	Yes	TRUE	27	Male	26-30	India		Sometimes	6-25
+r01404	Yes	Yes	Yes	TRUE	29	Male	26-30	Canada		Sometimes	
+r01405	I don't know	Yes	Maybe	TRUE	28	Male	26-30	Poland		Never	More than 1000
+r01406	Yes	Yes	Yes	TRUE	26	Trans/Other	26-30	Ireland		Sometimes	6-25
+r01407	Yes	Yes	Yes	TRUE	29	Male	26-30	Afghanistan		Sometimes	100-500
+r01408	No	No	No	FALSE	34	Male	31-35	Germany		Sometimes	
+r01409	I don't know	No	Yes	TRUE	36	Male	36-40	United Kingdom		Always	100-500
+r01410	No	Maybe	Yes	TRUE	38	Male	36-40	Belgium		Never	26-100
+r01411	No	Yes	Yes	TRUE	22	Female	20-25	United States of America	New York	Sometimes	6-25
+r01412	No	No	No	FALSE	24	Male	20-25	United States of America	Colorado	Sometimes	1-5
+r01413	Yes	Yes	Yes	TRUE	24	Female	20-25	United States of America	Texas	Sometimes	100-500
+r01414	Yes	Yes	Yes	TRUE	36	Female	36-40	United States of America	New York	Never	500-1000
+r01415	Yes	Yes	Yes	TRUE	24	Female	20-25	United States of America	Wisconsin	Never	More than 1000
+r01416	No	No	No	FALSE	24	Male	20-25	United States of America	Arizona	Never	500-1000
+r01417	Yes	Yes	Yes	TRUE	31	Male	31-35	Netherlands		Never	26-100
+r01418	No	Yes	Yes	TRUE	39	Male	36-40	United Kingdom		Never	26-100
+r01419	Yes	Yes	Yes	TRUE	41	Male	41-45	United States of America	Alabama	Sometimes	More than 1000
+r01420	I don't know	Maybe	Maybe	FALSE	29	Male	26-30	United Kingdom		Always	
+r01421	I don't know	No	No	FALSE	37	Male	36-40	Estonia		Never	26-100
+r01422	No	No	No	FALSE	30	Male	26-30	Canada		Always	26-100
+r01423	No	No	No	FALSE	24	Male	20-25	Canada		Sometimes	100-500
+r01424	I don't know	Yes	Yes	TRUE	22	Female	20-25	Canada		Sometimes	100-500
+r01425	I don't know	Maybe	Maybe	FALSE	24	Male	20-25	Canada		Sometimes	100-500
+r01426	I don't know	Yes	Yes	TRUE	26	Female	26-30	Canada		Sometimes	100-500
+r01427	Yes	Yes	Yes	TRUE	38	Female	36-40	United States of America	Illinois	Always	500-1000
+r01428	Yes	No	No	FALSE	34	Female	31-35	United States of America	New York	Sometimes	
+r01429	Yes	No	No	TRUE	56	Male	56-60	United States of America	California	Sometimes	
+r01430	Yes	Yes	Maybe	TRUE	52	Male	51-55	United States of America	Georgia	Sometimes	100-500
+r01431	Yes	Maybe	Yes	TRUE	30	Female	26-30	United States of America	Nebraska	Sometimes	100-500
+r01432	I don't know	Yes	Yes	FALSE	25	Trans/Other	20-25	Canada		Sometimes	100-500
