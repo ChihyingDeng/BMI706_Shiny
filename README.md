@@ -9,8 +9,15 @@ Chih-Ying Deng, Danni Lin, Bing Shao Chia
 |  |  ├── data_code.csv -- data with country and states code
 |  |  ├── question_list.csv -- lists of the questions
 |  |  ├── question_group_list.csv -- lists of the question groups
-|  |  └── question.csv -- responces to the question
-|  ├── Datasets.Rmd -- main code
+|  |  ├── question.csv -- responces to the question
+|  |  ├── OSMI.txt
+|  |  ├── if_so.txt
+|  |  └── work_position.txt
+|  ├── main.R -- main code
+|  ├── 1_question.R
+|  ├── 2_country.R
+|  ├── 3_work.R
+|  ├── 4_disease.R
 |  └── Preprocess_Data.ipynb -- pre-process the csv files
 ```
 
