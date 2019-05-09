@@ -1,0 +1,12 @@
+name: BMI706_Shiny
+title: BMI706_Shiny
+username:
+account: chihying
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 919436
+bundleId: 2071654
+url: https://chihying.shinyapps.io/BMI706_Shiny/
+when: 1557387033.36276
+asMultiple: FALSE
+asStatic: FALSE
