@@ -15,8 +15,7 @@ ui <- dashboardPage(
                         icon = icon("check")),
                menuItem("Work", tabName = "Work",
                         icon = icon("check")),
-               menuItem("Disease", tabName = "Disease",
-                        icon = icon("check")),
+
                menuItem("Source code", icon = icon("file-code-o"), 
                         href = "https://github.com/ChihyingDeng/BMI706_Shiny")
           )
@@ -31,9 +30,8 @@ ui <- dashboardPage(
                tabItem(tabName = "Living_country",
                        h2(source("2_country.R"))),
                tabItem(tabName = "Work",
-                       h2(source("3_work.R"))),
-               tabItem(tabName = "Disease",
-                       h2(source("4_disease.R")))
+                       h2(source("3_work.R")))
+
           )
      )
 )
