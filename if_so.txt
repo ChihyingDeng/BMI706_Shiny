@@ -1,0 +1,2027 @@
+ResponseID	If so, what conditions were you diagnosed with
+r00000	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00001	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00001	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00002	
+r00003	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00003	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00004	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00005	
+r00006	
+r00007	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00007	Substance Use Disorder
+r00008	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00009	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00009	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00010	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00011	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00012	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00013	
+r00014	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00014	Obsessive-Compulsive Disorder
+r00015	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00016	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00016	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00017	
+r00018	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00018	Attention Deficit Hyperactivity Disorder
+r00019	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00019	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00020	
+r00021	
+r00022	
+r00023	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00023	Attention Deficit Hyperactivity Disorder
+r00023	Post-traumatic Stress Disorder
+r00024	
+r00025	
+r00026	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00027	
+r00028	
+r00029	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00030	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00031	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00031	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00031	Substance Use Disorder
+r00031	Addictive Disorder
+r00032	
+r00033	
+r00034	
+r00035	
+r00036	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00037	
+r00038	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00039	
+r00040	
+r00041	
+r00042	
+r00043	
+r00044	
+r00045	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00045	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00046	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00046	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00046	Substance Use Disorder
+r00046	Addictive Disorder
+r00047	
+r00048	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00049	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00049	Attention Deficit Hyperactivity Disorder
+r00050	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00051	
+r00052	
+r00053	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00053	Attention Deficit Hyperactivity Disorder
+r00054	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00054	Attention Deficit Hyperactivity Disorder
+r00055	
+r00056	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00057	
+r00058	
+r00059	
+r00060	
+r00061	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00062	
+r00063	
+r00064	
+r00065	
+r00066	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00066	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00067	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00067	Attention Deficit Hyperactivity Disorder
+r00068	
+r00069	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00070	
+r00071	
+r00072	
+r00073	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00074	
+r00075	
+r00076	
+r00077	
+r00078	
+r00079	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00079	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00080	
+r00081	
+r00082	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00082	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00083	
+r00084	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00085	
+r00086	
+r00087	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00087	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00088	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00088	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00088	Attention Deficit Hyperactivity Disorder
+r00089	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00089	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00089	Attention Deficit Hyperactivity Disorder
+r00090	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00091	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00092	
+r00093	
+r00094	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00094	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00095	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00095	Attention Deficit Hyperactivity Disorder
+r00096	
+r00097	
+r00098	
+r00099	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00099	Eating Disorder (Anorexia, Bulimia, etc)
+r00099	Obsessive-Compulsive Disorder
+r00100	
+r00101	Attention Deficit Hyperactivity Disorder
+r00101	PDD-NOS (see above)
+r00102	
+r00103	
+r00104	
+r00105	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00105	Attention Deficit Hyperactivity Disorder
+r00106	
+r00107	Seasonal Affective Disorder
+r00108	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00109	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00110	
+r00111	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00111	Attention Deficit Hyperactivity Disorder
+r00112	
+r00113	
+r00114	Burn out
+r00115	
+r00116	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00116	Obsessive-Compulsive Disorder
+r00117	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00117	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00118	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00118	Attention Deficit Hyperactivity Disorder
+r00119	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00119	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00119	Obsessive-Compulsive Disorder
+r00120	
+r00121	
+r00122	PDD-NOS
+r00123	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00123	Substance Use Disorder
+r00124	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00125	
+r00126	
+r00127	
+r00128	
+r00129	
+r00130	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00130	Suicidal Ideation
+r00131	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00132	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00133	Attention Deficit Hyperactivity Disorder
+r00134	
+r00135	
+r00136	Attention Deficit Hyperactivity Disorder
+r00137	
+r00138	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00139	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00139	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00140	Post-traumatic Stress Disorder
+r00140	Dissociative Disorder
+r00141	
+r00142	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00142	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00143	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00144	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00144	Attention Deficit Hyperactivity Disorder
+r00145	
+r00146	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00146	Attention Deficit Hyperactivity Disorder
+r00147	
+r00148	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00149	
+r00150	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00151	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00151	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00152	Depression
+r00153	
+r00154	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00154	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00154	Attention Deficit Hyperactivity Disorder
+r00155	
+r00156	
+r00157	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00157	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00157	Attention Deficit Hyperactivity Disorder
+r00157	Substance Use Disorder
+r00158	
+r00159	
+r00160	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00161	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00162	
+r00163	
+r00164	
+r00165	
+r00166	
+r00167	
+r00168	
+r00169	
+r00170	
+r00171	
+r00172	
+r00173	
+r00174	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00174	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00174	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00174	Stress Response Syndromes
+r00175	
+r00176	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00176	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00177	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00177	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00177	Attention Deficit Hyperactivity Disorder
+r00178	
+r00179	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00180	
+r00181	
+r00182	Gender Identity Disorder
+r00183	
+r00184	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00184	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00184	Attention Deficit Hyperactivity Disorder
+r00184	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00185	
+r00186	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00187	
+r00188	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00188	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00188	Attention Deficit Hyperactivity Disorder
+r00189	Substance Use Disorder
+r00190	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00191	
+r00192	
+r00193	
+r00194	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00194	Attention Deficit Hyperactivity Disorder
+r00195	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00195	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00196	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00196	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00197	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00198	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00198	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00199	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00199	Attention Deficit Hyperactivity Disorder
+r00200	
+r00201	
+r00202	
+r00203	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00203	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00203	Eating Disorder (Anorexia, Bulimia, etc)
+r00203	Obsessive-Compulsive Disorder
+r00204	
+r00205	
+r00206	
+r00207	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00207	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00207	Obsessive-Compulsive Disorder
+r00208	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00209	
+r00210	
+r00211	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00212	Addictive Disorder
+r00212	Substance Use Disorder
+r00212	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00212	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00212	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00212	Post-traumatic Stress Disorder
+r00213	
+r00214	
+r00215	
+r00216	
+r00217	
+r00218	
+r00219	
+r00220	Attention Deficit Hyperactivity Disorder
+r00220	Obsessive-Compulsive Disorder
+r00220	Stress Response Syndromes
+r00221	
+r00222	
+r00223	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00223	Stress Response Syndromes
+r00224	
+r00225	
+r00226	Stress Response Syndromes
+r00227	
+r00228	
+r00229	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00229	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00229	Post-traumatic Stress Disorder
+r00230	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00230	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00231	
+r00232	
+r00233	
+r00234	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00234	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00235	
+r00236	
+r00237	
+r00238	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00238	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00239	
+r00240	
+r00241	
+r00242	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00243	
+r00244	
+r00245	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00246	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00246	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00246	Post-traumatic Stress Disorder
+r00247	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00247	Eating Disorder (Anorexia, Bulimia, etc)
+r00247	Attention Deficit Hyperactivity Disorder
+r00247	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00247	Dissociative Disorder
+r00248	
+r00249	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00249	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00249	Attention Deficit Hyperactivity Disorder
+r00250	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00251	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00252	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00252	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00252	Eating Disorder (Anorexia, Bulimia, etc)
+r00252	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00252	Post-traumatic Stress Disorder
+r00253	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00253	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00253	Substance Use Disorder
+r00254	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00254	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00255	
+r00256	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00256	Attention Deficit Hyperactivity Disorder
+r00257	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00258	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00259	
+r00260	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00260	Attention Deficit Hyperactivity Disorder
+r00261	
+r00262	
+r00263	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00263	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00264	
+r00265	
+r00266	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00266	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00266	Post-traumatic Stress Disorder
+r00267	
+r00268	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00268	Post-traumatic Stress Disorder
+r00269	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00270	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00271	
+r00272	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00272	Attention Deficit Hyperactivity Disorder
+r00273	
+r00274	
+r00275	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00276	
+r00277	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00278	
+r00279	
+r00280	
+r00281	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00281	Attention Deficit Hyperactivity Disorder
+r00282	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00283	
+r00284	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00284	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00285	
+r00286	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00286	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00286	Post-traumatic Stress Disorder
+r00287	
+r00288	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00288	Attention Deficit Hyperactivity Disorder
+r00289	
+r00290	
+r00291	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00292	
+r00293	
+r00294	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00295	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00296	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00297	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00297	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00297	Attention Deficit Hyperactivity Disorder
+r00297	Post-traumatic Stress Disorder
+r00297	Substance Use Disorder
+r00298	
+r00299	
+r00300	
+r00301	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00301	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00302	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00303	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00304	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00304	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00304	Eating Disorder (Anorexia, Bulimia, etc)
+r00304	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00304	Obsessive-Compulsive Disorder
+r00305	
+r00306	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00307	
+r00308	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00308	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00308	Attention Deficit Hyperactivity Disorder
+r00309	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00309	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00309	Stress Response Syndromes
+r00310	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00310	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00311	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00312	
+r00313	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00314	
+r00315	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00315	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00316	
+r00317	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00317	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00317	Obsessive-Compulsive Disorder
+r00318	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00318	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00318	Obsessive-Compulsive Disorder
+r00319	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00320	
+r00321	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00321	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00322	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00323	
+r00324	
+r00325	
+r00326	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00326	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00327	
+r00328	
+r00329	
+r00330	Depression
+r00331	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00332	
+r00333	
+r00334	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00334	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00335	
+r00336	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00336	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00336	Post-traumatic Stress Disorder
+r00337	
+r00338	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00339	Autism (Asperger's)
+r00340	
+r00341	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00341	Obsessive-Compulsive Disorder
+r00341	Post-traumatic Stress Disorder
+r00342	
+r00343	
+r00344	
+r00345	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00345	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00346	
+r00347	
+r00348	
+r00349	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00350	
+r00351	
+r00352	
+r00353	
+r00354	
+r00355	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00355	Attention Deficit Hyperactivity Disorder
+r00356	
+r00357	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00357	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00357	Eating Disorder (Anorexia, Bulimia, etc)
+r00358	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00358	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00359	
+r00360	
+r00361	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00362	
+r00363	
+r00364	
+r00365	
+r00366	
+r00367	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00367	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00367	Attention Deficit Hyperactivity Disorder
+r00367	Post-traumatic Stress Disorder
+r00368	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00368	Addictive Disorder
+r00369	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00369	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00369	Attention Deficit Hyperactivity Disorder
+r00370	
+r00371	
+r00372	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00372	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00372	Attention Deficit Hyperactivity Disorder
+r00372	Post-traumatic Stress Disorder
+r00373	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00374	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00374	Dissociative Disorder
+r00375	
+r00376	
+r00377	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00377	Attention Deficit Hyperactivity Disorder
+r00378	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00378	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00378	Eating Disorder (Anorexia, Bulimia, etc)
+r00378	Attention Deficit Hyperactivity Disorder
+r00379	
+r00380	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00381	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00381	Attention Deficit Hyperactivity Disorder
+r00382	
+r00383	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00383	Attention Deficit Hyperactivity Disorder
+r00384	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00384	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00385	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00386	
+r00387	
+r00388	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00388	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00389	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00389	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00390	
+r00391	
+r00392	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00393	
+r00394	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00394	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00395	
+r00396	
+r00397	
+r00398	
+r00399	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00399	Stress Response Syndromes
+r00400	
+r00401	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00401	Attention Deficit Hyperactivity Disorder
+r00402	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00403	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00404	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00405	
+r00406	
+r00407	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00407	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00407	Attention Deficit Hyperactivity Disorder
+r00407	Obsessive-Compulsive Disorder
+r00407	Post-traumatic Stress Disorder
+r00408	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00408	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00408	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00409	Attention Deficit Hyperactivity Disorder
+r00410	
+r00411	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00412	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00413	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00414	
+r00415	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00415	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00416	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00416	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00416	Obsessive-Compulsive Disorder
+r00417	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00417	Gender Dysphoria
+r00418	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00419	
+r00420	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00421	
+r00422	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00422	Post-traumatic Stress Disorder
+r00422	Substance Use Disorder
+r00423	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00424	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00424	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00424	Post-traumatic Stress Disorder
+r00425	
+r00426	
+r00427	
+r00428	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00428	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00429	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00429	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00430	
+r00431	
+r00432	
+r00433	
+r00434	
+r00435	
+r00436	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00436	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00437	
+r00438	
+r00439	
+r00440	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00440	Attention Deficit Hyperactivity Disorder
+r00441	
+r00442	Obsessive-Compulsive Disorder
+r00443	Attention Deficit Hyperactivity Disorder
+r00444	
+r00445	
+r00446	Attention Deficit Hyperactivity Disorder
+r00447	
+r00448	
+r00449	
+r00450	
+r00451	Post-traumatic Stress Disorder
+r00452	
+r00453	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00453	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00454	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00455	
+r00456	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00457	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00458	
+r00459	
+r00460	
+r00461	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00461	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00462	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00462	Attention Deficit Hyperactivity Disorder
+r00463	
+r00464	Post-traumatic Stress Disorder
+r00465	
+r00466	
+r00467	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00467	Eating Disorder (Anorexia, Bulimia, etc)
+r00468	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00468	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00468	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00468	Post-traumatic Stress Disorder
+r00469	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00470	
+r00471	
+r00472	
+r00473	
+r00474	
+r00475	
+r00476	Post-traumatic Stress Disorder
+r00477	
+r00478	Substance Use Disorder
+r00478	Addictive Disorder
+r00479	
+r00480	
+r00481	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00482	
+r00483	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00483	Attention Deficit Hyperactivity Disorder
+r00484	
+r00485	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00486	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00486	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00486	Substance Use Disorder
+r00486	Addictive Disorder
+r00487	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00487	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00488	Stress Response Syndromes
+r00488	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00489	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00489	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00490	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00490	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00491	
+r00492	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00493	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00494	
+r00495	Substance Use Disorder
+r00496	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00496	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00497	
+r00498	
+r00499	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00500	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00500	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00501	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00501	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00501	Stress Response Syndromes
+r00502	
+r00503	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00504	
+r00505	Psychotic Disorder (Schizophrenia, Schizoaffective, etc)
+r00506	
+r00507	
+r00508	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00508	Attention Deficit Hyperactivity Disorder
+r00509	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00509	Stress Response Syndromes
+r00510	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00510	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00511	
+r00512	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00512	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00512	Attention Deficit Hyperactivity Disorder
+r00513	
+r00514	
+r00515	
+r00516	
+r00517	
+r00518	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00518	Attention Deficit Hyperactivity Disorder
+r00519	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00519	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00519	Attention Deficit Hyperactivity Disorder
+r00520	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00520	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00521	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00521	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00522	
+r00523	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00524	
+r00525	
+r00526	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00527	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00527	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00528	
+r00529	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00529	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00530	
+r00531	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00531	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00532	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00533	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00534	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00535	
+r00536	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00537	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00537	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00538	
+r00539	
+r00540	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00540	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00541	
+r00542	
+r00543	
+r00544	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00545	
+r00546	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00547	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00548	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00548	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00549	
+r00550	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00550	Attention Deficit Hyperactivity Disorder
+r00551	
+r00552	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00553	
+r00554	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00555	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00556	
+r00557	
+r00558	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00558	Attention Deficit Hyperactivity Disorder
+r00558	Post-traumatic Stress Disorder
+r00559	
+r00560	
+r00561	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00561	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00562	
+r00563	
+r00564	
+r00565	
+r00566	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00566	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00567	
+r00568	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00568	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00568	Stress Response Syndromes
+r00569	
+r00570	
+r00571	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00571	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00571	Attention Deficit Hyperactivity Disorder
+r00572	
+r00573	
+r00574	
+r00575	
+r00576	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00577	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00577	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00577	Attention Deficit Hyperactivity Disorder
+r00578	
+r00579	
+r00580	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00581	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00581	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00582	
+r00583	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00583	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00583	Obsessive-Compulsive Disorder
+r00583	Post-traumatic Stress Disorder
+r00583	Stress Response Syndromes
+r00584	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00584	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00585	Psychotic Disorder (Schizophrenia, Schizoaffective, etc)
+r00586	
+r00587	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00587	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00588	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00588	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00588	Eating Disorder (Anorexia, Bulimia, etc)
+r00589	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00590	
+r00591	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00592	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00592	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00593	
+r00594	
+r00595	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00596	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00596	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00597	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00597	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00598	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00598	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00599	
+r00600	
+r00601	
+r00602	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00602	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00602	Post-traumatic Stress Disorder
+r00602	Stress Response Syndromes
+r00603	
+r00604	
+r00605	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00605	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00605	Post-traumatic Stress Disorder
+r00606	Eating Disorder (Anorexia, Bulimia, etc)
+r00606	Attention Deficit Hyperactivity Disorder
+r00606	Post-traumatic Stress Disorder
+r00606	Substance Use Disorder
+r00606	Addictive Disorder
+r00607	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00607	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00608	Substance Use Disorder
+r00608	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00609	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00609	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00610	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00610	Stress Response Syndromes
+r00611	
+r00612	
+r00613	Attention Deficit Hyperactivity Disorder
+r00614	
+r00615	
+r00616	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00617	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00617	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00617	Obsessive-Compulsive Disorder
+r00617	Post-traumatic Stress Disorder
+r00618	Psychotic Disorder (Schizophrenia, Schizoaffective, etc)
+r00619	
+r00620	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00620	Attention Deficit Hyperactivity Disorder
+r00620	Obsessive-Compulsive Disorder
+r00621	
+r00622	Attention Deficit Hyperactivity Disorder
+r00623	
+r00624	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00625	
+r00626	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00626	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00627	
+r00628	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00629	
+r00630	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00631	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00631	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00631	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00631	Post-traumatic Stress Disorder
+r00631	Stress Response Syndromes
+r00631	Substance Use Disorder
+r00631	Addictive Disorder
+r00632	
+r00633	
+r00634	
+r00635	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00635	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00635	Attention Deficit Hyperactivity Disorder
+r00636	
+r00637	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00638	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00639	
+r00640	
+r00641	
+r00642	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00642	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00642	Obsessive-Compulsive Disorder
+r00643	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00643	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00643	Post-traumatic Stress Disorder
+r00643	Addictive Disorder
+r00643	Autism
+r00644	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00645	
+r00646	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00646	Post-traumatic Stress Disorder
+r00647	
+r00648	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00648	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00649	
+r00650	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00650	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00651	
+r00652	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00652	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00653	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00654	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00654	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00655	
+r00656	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00657	
+r00658	
+r00659	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00659	Attention Deficit Hyperactivity Disorder
+r00659	Obsessive-Compulsive Disorder
+r00659	Addictive Disorder
+r00660	
+r00661	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00661	Post-traumatic Stress Disorder
+r00661	Stress Response Syndromes
+r00662	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00662	Attention Deficit Hyperactivity Disorder
+r00663	
+r00664	
+r00665	
+r00666	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00666	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00666	Post-traumatic Stress Disorder
+r00667	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00667	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00667	Attention Deficit Hyperactivity Disorder
+r00668	
+r00669	
+r00670	
+r00671	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00671	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00672	
+r00673	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00674	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00675	
+r00676	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00676	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00676	Attention Deficit Hyperactivity Disorder
+r00676	Obsessive-Compulsive Disorder
+r00676	Post-traumatic Stress Disorder
+r00676	Substance Use Disorder
+r00677	
+r00678	Autism - while not a "mental illness", still greatly affects how I handle anxiety
+r00679	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00679	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00680	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00680	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00681	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00682	
+r00683	
+r00684	
+r00685	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00686	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00686	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00687	
+r00688	
+r00689	
+r00690	Obsessive-Compulsive Disorder
+r00690	Substance Use Disorder
+r00691	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00692	
+r00693	
+r00694	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00694	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00695	
+r00696	
+r00697	
+r00698	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00698	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00699	
+r00700	
+r00701	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00701	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00702	
+r00703	
+r00704	
+r00705	
+r00706	
+r00707	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00707	Obsessive-Compulsive Disorder
+r00708	
+r00709	
+r00710	
+r00711	
+r00712	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00713	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00713	Attention Deficit Disorder
+r00714	
+r00715	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00715	Post-traumatic Stress Disorder
+r00716	Stress Response Syndromes
+r00717	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00717	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00718	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00718	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00719	
+r00720	
+r00721	
+r00722	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00722	Attention Deficit Hyperactivity Disorder
+r00723	
+r00724	
+r00725	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00725	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00726	Attention Deficit Hyperactivity Disorder
+r00727	
+r00728	Psychotic Disorder (Schizophrenia, Schizoaffective, etc)
+r00729	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00730	
+r00731	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00732	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00732	Attention Deficit Hyperactivity Disorder
+r00733	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00733	Attention Deficit Hyperactivity Disorder
+r00734	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00735	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00736	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00736	Attention Deficit Hyperactivity Disorder
+r00737	
+r00738	
+r00739	
+r00740	
+r00741	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00742	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00743	
+r00744	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00744	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00745	
+r00746	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00746	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00747	
+r00748	Post-traumatic Stress Disorder
+r00748	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00749	
+r00750	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00750	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00750	Stress Response Syndromes
+r00751	
+r00752	
+r00753	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00753	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00753	Attention Deficit Hyperactivity Disorder
+r00754	
+r00755	
+r00756	Substance Use Disorder
+r00756	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00757	
+r00758	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00758	Post-traumatic Stress Disorder
+r00759	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00759	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00760	
+r00761	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00761	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00761	Attention Deficit Hyperactivity Disorder
+r00762	
+r00763	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00763	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00764	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00764	Post-traumatic Stress Disorder
+r00764	Stress Response Syndromes
+r00765	
+r00766	
+r00767	
+r00768	
+r00769	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00769	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00770	
+r00771	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00772	
+r00773	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00773	Stress Response Syndromes
+r00774	
+r00775	
+r00776	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00777	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00777	Post-traumatic Stress Disorder
+r00777	Addictive Disorder
+r00778	
+r00779	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00780	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00780	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00781	
+r00782	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00782	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00783	Post-traumatic Stress Disorder
+r00784	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00784	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00785	
+r00786	
+r00787	
+r00788	
+r00789	
+r00790	
+r00791	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00792	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00792	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00793	
+r00794	
+r00795	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00795	Attention Deficit Hyperactivity Disorder
+r00796	
+r00797	
+r00798	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00798	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00799	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00800	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00801	
+r00802	
+r00803	
+r00804	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00804	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00804	Stress Response Syndromes
+r00805	
+r00806	
+r00807	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00808	
+r00809	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00809	Attention Deficit Hyperactivity Disorder
+r00810	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00811	
+r00812	
+r00813	
+r00814	
+r00815	
+r00816	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00816	Post-traumatic Stress Disorder
+r00817	
+r00818	
+r00819	
+r00820	Attention Deficit Hyperactivity Disorder
+r00820	MCD (when it was diagnosed, the ultra-mega "disorder" ADHD didn't exist yet)
+r00821	
+r00822	
+r00823	
+r00824	
+r00825	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00826	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00826	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00827	
+r00828	
+r00829	
+r00830	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00830	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00831	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00832	
+r00833	
+r00834	
+r00835	
+r00836	Attention Deficit Hyperactivity Disorder
+r00837	
+r00838	
+r00839	
+r00840	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00841	
+r00842	
+r00843	Attention Deficit Hyperactivity Disorder
+r00844	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00844	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00844	Attention Deficit Hyperactivity Disorder
+r00845	
+r00846	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00846	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00846	Dissociative Disorder
+r00847	
+r00848	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00849	
+r00850	
+r00851	
+r00852	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00853	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00853	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00854	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00854	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00855	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00855	Attention Deficit Hyperactivity Disorder
+r00856	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00856	Attention Deficit Hyperactivity Disorder
+r00856	Post-traumatic Stress Disorder
+r00857	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00857	Eating Disorder (Anorexia, Bulimia, etc)
+r00857	posttraumatic stress disourder
+r00858	
+r00859	
+r00860	
+r00861	
+r00862	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00863	
+r00864	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00865	
+r00866	
+r00867	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00867	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00868	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00869	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00870	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00870	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00870	Attention Deficit Hyperactivity Disorder
+r00871	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00872	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00872	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00873	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00873	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00874	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00874	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00874	Attention Deficit Hyperactivity Disorder
+r00875	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00875	Stress Response Syndromes
+r00876	
+r00877	
+r00878	
+r00879	
+r00880	
+r00881	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00882	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00882	Addictive Disorder
+r00883	
+r00884	
+r00885	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00885	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00886	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00887	
+r00888	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00888	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00888	Attention Deficit Hyperactivity Disorder
+r00889	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00889	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00889	Post-traumatic Stress Disorder
+r00890	
+r00891	
+r00892	
+r00893	
+r00894	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00894	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00895	
+r00896	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00897	
+r00898	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00899	
+r00900	
+r00901	Post-traumatic Stress Disorder
+r00902	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00902	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00902	Attention Deficit Hyperactivity Disorder
+r00903	
+r00904	
+r00905	
+r00906	
+r00907	
+r00908	Post-traumatic Stress Disorder
+r00909	
+r00910	
+r00911	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00911	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00912	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00913	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00914	
+r00915	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00916	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00916	Attention Deficit Hyperactivity Disorder
+r00917	
+r00918	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00918	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00918	Stress Response Syndromes
+r00919	
+r00920	Obsessive-Compulsive Disorder
+r00921	
+r00922	
+r00923	
+r00924	
+r00925	
+r00926	
+r00927	
+r00928	
+r00929	Stress Response Syndromes
+r00930	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00930	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00931	
+r00932	
+r00933	
+r00934	
+r00935	
+r00936	
+r00937	
+r00938	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00939	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00939	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00940	
+r00941	
+r00942	
+r00943	
+r00944	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00944	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00945	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00946	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00947	
+r00948	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00948	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00948	Post-traumatic Stress Disorder
+r00949	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00950	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00951	
+r00952	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00953	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00954	Attention Deficit Hyperactivity Disorder
+r00955	Stress Response Syndromes
+r00956	
+r00957	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00957	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00958	
+r00959	
+r00960	
+r00961	
+r00962	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00963	
+r00964	
+r00965	
+r00966	attention deficit disorder (but not the hyperactive version)
+r00967	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00967	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00968	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00968	Attention Deficit Hyperactivity Disorder
+r00968	Post-traumatic Stress Disorder
+r00968	Substance Use Disorder
+r00969	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00970	
+r00971	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00971	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00972	
+r00973	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00974	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00975	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00975	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00976	
+r00977	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00977	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00977	Attention Deficit Hyperactivity Disorder
+r00978	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00979	
+r00980	
+r00981	
+r00982	
+r00983	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00984	
+r00985	
+r00986	
+r00987	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00988	
+r00989	Attention Deficit Hyperactivity Disorder
+r00989	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00990	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00990	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00990	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r00991	
+r00992	
+r00993	
+r00994	
+r00995	
+r00996	
+r00997	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r00997	Mood Disorder (Depression, Bipolar Disorder, etc)
+r00997	Attention Deficit Hyperactivity Disorder
+r00998	
+r00999	Stress Response Syndromes
+r01000	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01000	Attention Deficit Hyperactivity Disorder
+r01001	
+r01002	
+r01003	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01003	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01004	Attention Deficit Hyperactivity Disorder
+r01005	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01005	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01006	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01007	
+r01008	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01008	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01008	Post-traumatic Stress Disorder
+r01009	
+r01010	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01011	
+r01012	
+r01013	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01014	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01015	
+r01016	Attention Deficit Hyperactivity Disorder
+r01017	
+r01018	
+r01019	
+r01020	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01020	Attention Deficit Hyperactivity Disorder
+r01021	
+r01022	
+r01023	
+r01024	
+r01025	
+r01026	
+r01027	
+r01028	
+r01029	
+r01030	
+r01031	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01031	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01031	Eating Disorder (Anorexia, Bulimia, etc)
+r01032	
+r01033	
+r01034	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01034	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01035	
+r01036	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01037	Attention Deficit Hyperactivity Disorder
+r01038	
+r01039	
+r01040	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01040	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01041	Depression
+r01042	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01042	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01043	
+r01044	
+r01045	
+r01046	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01046	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01047	
+r01048	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01049	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01049	Attention Deficit Hyperactivity Disorder
+r01049	Aspergers
+r01050	
+r01051	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01052	
+r01053	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01054	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01055	
+r01056	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01057	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01058	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01058	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01059	Attention Deficit Hyperactivity Disorder
+r01059	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01060	
+r01061	
+r01062	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01062	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01063	
+r01064	
+r01065	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01066	Attention Deficit Hyperactivity Disorder
+r01066	Post-traumatic Stress Disorder
+r01066	Substance Use Disorder
+r01067	
+r01068	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01069	
+r01070	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01070	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01071	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01072	
+r01073	
+r01074	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01074	Post-traumatic Stress Disorder
+r01074	Dissociative Disorder
+r01075	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01076	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01077	
+r01078	
+r01079	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01080	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01081	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01081	Stress Response Syndromes
+r01082	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01082	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01082	Obsessive-Compulsive Disorder
+r01082	Post-traumatic Stress Disorder
+r01083	
+r01084	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01085	
+r01086	
+r01087	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01087	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01087	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01087	Obsessive-Compulsive Disorder
+r01088	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01089	
+r01090	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01091	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01091	Attention Deficit Hyperactivity Disorder
+r01091	Post-traumatic Stress Disorder
+r01092	Attention Deficit Hyperactivity Disorder
+r01093	
+r01094	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01095	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01095	Substance Use Disorder
+r01095	Addictive Disorder
+r01096	
+r01097	
+r01098	Stress Response Syndromes
+r01098	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01098	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01099	Attention Deficit Hyperactivity Disorder
+r01100	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01100	Obsessive-Compulsive Disorder
+r01101	
+r01102	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01102	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01103	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01104	
+r01105	
+r01106	Autism Spectrum Disorder
+r01107	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01107	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01107	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01107	Post-traumatic Stress Disorder
+r01107	Substance Use Disorder
+r01108	
+r01109	
+r01110	
+r01111	
+r01112	
+r01113	
+r01114	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01114	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01114	Obsessive-Compulsive Disorder
+r01115	
+r01116	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01117	
+r01118	Attention Deficit Hyperactivity Disorder
+r01119	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01119	Attention Deficit Hyperactivity Disorder
+r01120	
+r01121	Obsessive-Compulsive Disorder
+r01122	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01122	Attention Deficit Hyperactivity Disorder
+r01123	
+r01124	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01124	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01125	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01125	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01126	
+r01127	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01127	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01128	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01128	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01128	Post-traumatic Stress Disorder
+r01129	
+r01130	Stress Response Syndromes
+r01131	
+r01132	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01132	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01132	Obsessive-Compulsive Disorder
+r01133	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01134	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01134	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01134	Eating Disorder (Anorexia, Bulimia, etc)
+r01135	Attention Deficit Hyperactivity Disorder
+r01136	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01137	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01137	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01138	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01138	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01138	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01138	Obsessive-Compulsive Disorder
+r01138	Addictive Disorder
+r01139	
+r01140	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01141	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01142	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01143	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01144	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01144	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01145	
+r01146	
+r01147	
+r01148	
+r01149	
+r01150	
+r01151	
+r01152	
+r01153	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01153	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01154	
+r01155	
+r01156	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01156	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01156	Obsessive-Compulsive Disorder
+r01157	
+r01158	
+r01159	Asperger Syndrome
+r01160	
+r01161	
+r01162	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01162	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01163	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01164	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01165	
+r01166	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01166	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01167	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01167	Post-traumatic Stress Disorder
+r01168	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01169	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01169	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01169	Attention Deficit Hyperactivity Disorder
+r01170	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01171	
+r01172	Psychotic Disorder (Schizophrenia, Schizoaffective, etc)
+r01173	Post-traumatic Stress Disorder
+r01174	
+r01175	Post-traumatic Stress Disorder
+r01176	
+r01177	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01178	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01178	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01179	
+r01180	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01180	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01180	Obsessive-Compulsive Disorder
+r01181	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01182	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01183	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01183	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01184	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01184	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01185	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01186	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01187	
+r01188	
+r01189	
+r01190	
+r01191	
+r01192	
+r01193	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01194	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01194	Attention Deficit Hyperactivity Disorder
+r01194	Post-traumatic Stress Disorder
+r01195	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01195	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01196	
+r01197	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01197	Post-traumatic Stress Disorder
+r01198	
+r01199	
+r01200	
+r01201	
+r01202	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01202	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01203	
+r01204	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01204	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01204	Post-traumatic Stress Disorder
+r01205	
+r01206	
+r01207	
+r01208	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01208	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01209	
+r01210	
+r01211	
+r01212	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01212	Post-traumatic Stress Disorder
+r01213	
+r01214	
+r01215	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01215	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01215	Psychotic Disorder (Schizophrenia, Schizoaffective, etc)
+r01215	Dissociative Disorder
+r01215	Autism
+r01216	
+r01217	
+r01218	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01218	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01219	
+r01220	
+r01221	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01221	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01221	Obsessive-Compulsive Disorder
+r01222	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01223	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01224	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01225	
+r01226	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01226	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01227	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01227	Eating Disorder (Anorexia, Bulimia, etc)
+r01227	Attention Deficit Hyperactivity Disorder
+r01227	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01228	
+r01229	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01230	
+r01231	Attention Deficit Hyperactivity Disorder
+r01232	
+r01233	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01233	Attention Deficit Hyperactivity Disorder
+r01234	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01235	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01235	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01235	Post-traumatic Stress Disorder
+r01235	Dissociative Disorder
+r01236	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01236	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01237	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01238	
+r01239	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01239	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01240	
+r01241	
+r01242	
+r01243	
+r01244	
+r01245	
+r01246	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01247	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01247	Intimate Disorder
+r01248	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01248	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01248	Dissociative Disorder
+r01249	
+r01250	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01250	Attention Deficit Hyperactivity Disorder
+r01251	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01251	Eating Disorder (Anorexia, Bulimia, etc)
+r01252	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01253	
+r01254	
+r01255	
+r01256	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01257	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01257	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01258	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01259	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01259	Psychotic Disorder (Schizophrenia, Schizoaffective, etc)
+r01259	Obsessive-Compulsive Disorder
+r01259	Post-traumatic Stress Disorder
+r01259	Substance Use Disorder
+r01260	
+r01261	Attention Deficit Hyperactivity Disorder
+r01262	
+r01263	
+r01264	
+r01265	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01265	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01266	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01266	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01266	Attention Deficit Hyperactivity Disorder
+r01267	
+r01268	
+r01269	
+r01270	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01270	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01270	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01270	Post-traumatic Stress Disorder
+r01271	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01272	
+r01273	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01273	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01273	Post-traumatic Stress Disorder
+r01274	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01275	
+r01276	
+r01277	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01277	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01277	Eating Disorder (Anorexia, Bulimia, etc)
+r01277	Attention Deficit Hyperactivity Disorder
+r01277	Post-traumatic Stress Disorder
+r01278	
+r01279	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01279	Stress Response Syndromes
+r01280	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01280	Stress Response Syndromes
+r01281	
+r01282	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01282	Attention Deficit Hyperactivity Disorder
+r01283	
+r01284	
+r01285	
+r01286	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01286	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01287	
+r01288	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01289	
+r01290	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01291	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01291	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01292	
+r01293	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01293	Substance Use Disorder
+r01294	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01295	
+r01296	
+r01297	
+r01298	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01298	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01299	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01299	Attention Deficit Hyperactivity Disorder
+r01300	
+r01301	
+r01302	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01303	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01303	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01303	Post-traumatic Stress Disorder
+r01303	Substance Use Disorder
+r01304	
+r01305	
+r01306	
+r01307	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01307	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01307	Attention Deficit Hyperactivity Disorder
+r01307	Obsessive-Compulsive Disorder
+r01308	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01309	
+r01310	
+r01311	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01312	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01312	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01312	Attention Deficit Hyperactivity Disorder
+r01313	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01314	
+r01315	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01316	
+r01317	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01317	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01318	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01319	
+r01320	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01320	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01321	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01321	Post-traumatic Stress Disorder
+r01322	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01323	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01323	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01323	Attention Deficit Hyperactivity Disorder
+r01324	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01325	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01325	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01326	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01326	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01326	Attention Deficit Hyperactivity Disorder
+r01327	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01328	
+r01329	
+r01330	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01331	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01331	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01332	
+r01333	
+r01334	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01334	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01335	
+r01336	
+r01337	
+r01338	
+r01339	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01340	
+r01341	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01342	
+r01343	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01344	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01344	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01344	Dissociative Disorder
+r01345	
+r01346	
+r01347	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01347	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01348	
+r01349	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01350	
+r01351	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01352	Attention Deficit Hyperactivity Disorder
+r01353	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01353	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01354	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01354	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01354	Attention Deficit Hyperactivity Disorder
+r01355	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01356	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01357	
+r01358	Post-traumatic Stress Disorder
+r01359	
+r01360	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01361	
+r01362	ADD (w/o Hyperactivity)
+r01363	
+r01364	Addictive Disorder
+r01364	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01364	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01364	Eating Disorder (Anorexia, Bulimia, etc)
+r01364	Attention Deficit Hyperactivity Disorder
+r01364	Obsessive-Compulsive Disorder
+r01364	Post-traumatic Stress Disorder
+r01364	Dissociative Disorder
+r01365	
+r01366	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01367	
+r01368	
+r01369	
+r01370	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01370	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01370	Attention Deficit Hyperactivity Disorder
+r01371	
+r01372	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01372	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01373	
+r01374	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01374	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01374	Attention Deficit Hyperactivity Disorder
+r01375	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01375	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01375	Attention Deficit Hyperactivity Disorder
+r01376	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01377	
+r01378	Eating Disorder (Anorexia, Bulimia, etc)
+r01379	Attention Deficit Hyperactivity Disorder
+r01380	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01380	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01381	
+r01382	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01383	
+r01384	Attention Deficit Hyperactivity Disorder
+r01385	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01386	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01387	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01387	Post-traumatic Stress Disorder
+r01388	
+r01389	
+r01390	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01390	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01391	
+r01392	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01392	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01393	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01393	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01394	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01394	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01395	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01395	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01396	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01397	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01397	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01397	Obsessive-Compulsive Disorder
+r01398	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01399	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01399	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01400	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01400	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01400	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01401	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01401	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01402	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01402	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01402	Attention Deficit Hyperactivity Disorder
+r01403	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01403	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01404	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01405	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01406	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01407	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01407	Obsessive-Compulsive Disorder
+r01408	
+r01409	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01410	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01410	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01410	Personality Disorder (Borderline, Antisocial, Paranoid, etc)
+r01410	Stress Response Syndromes
+r01411	Schizotypal Personality Disorder
+r01412	
+r01413	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01413	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01413	Obsessive-Compulsive Disorder
+r01414	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01415	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01415	Attention Deficit Hyperactivity Disorder
+r01416	
+r01417	autism spectrum disorder
+r01418	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01419	Attention Deficit Hyperactivity Disorder
+r01420	
+r01421	
+r01422	
+r01423	
+r01424	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01425	
+r01426	Attention Deficit Hyperactivity Disorder
+r01427	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01427	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01427	Obsessive-Compulsive Disorder
+r01428	
+r01429	Psychotic Disorder (Schizophrenia, Schizoaffective, etc)
+r01430	Anxiety Disorder (Generalized, Social, Phobia, etc)
+r01430	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01431	Mood Disorder (Depression, Bipolar Disorder, etc)
+r01432	
