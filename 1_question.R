@@ -10,7 +10,29 @@ library(wesanderson)
 
 question <- read.csv('data/question.csv') 
 q_list <- read.csv('data/question_list.csv') 
-data <- read.csv('data/data_code.csv')
+data <- read.csv('data/data_code.csv', stringsAsFactors = F)
+
+disease_split <- colsplit(data$If.so..what.conditions.were.you.diagnosed.with, "\\|", names=c("pri", "sec", "ter", "quar", "quin", "sen", "sep", "oct"))
+data <- cbind(data, disease_split)
+multiple <- vector()
+for (i in 1:nrow(data)) {
+  if (data$sec[i] == "") {
+    multiple[i] <- 0
+  }
+  else multiple[i] <- 1
+  }
+data <- cbind(data, multiple)
+for (i in 1:nrow(data)) {
+  if (data$multiple[i] == "1") {
+    data$combined[i] <- "Multiple Diseases"
+  }
+  else data$combined[i] <- data$pri[i]
+  }
+
+work_split <- colsplit(data$Which.of.the.following.best.describes.your.work.position, "\\|", names=c("work_pri", "work_sec", "work_ter", "work_quar", "work_quin", "work_sen", "work_sep", "work_oct", "work_nona", "work_deca"))
+data <- cbind(data, work_split)
+
+
 
 names(data) <- c("ResponseID", "selfemployed", "companysize", "techcompany", "ITrole", 
                "employers", "familyHx", "pastHx", "current", "currentDz", 
@@ -64,13 +86,18 @@ ui <- fluidPage(
           checkboxGroupInput("QA", 
                              label = "Question Answer:",
                              choices = c("Yes","No","Maybe","Often","Rare","N/A","Other"),
-                             selected = c("Yes","No","Maybe","Often","Rare","N/A","Other"))
+                             selected = c("Yes","No","Maybe","Often","Rare","N/A","Other")),
+           selectInput("disease", "Select disease:", 
+                      multiple = TRUE,
+                      choices = disease.list, 
+                      selected = c("All"))
      ),
      
      mainPanel(
           plotlyOutput("map"),
           plotlyOutput("stat"),    
           plotlyOutput("plot"), 
+          plotlyOutput("plot2"),
           verbatimTextOutput("question"),
           verbatimTextOutput("click")
      )
@@ -99,6 +126,10 @@ server <- function(input, output, session) {
                lst <- lst %>% filter(companysize==input$Company)}
           if (input$Work!="All"){
                lst <- lst %>% filter(work.position==input$Work)}
+          if (input$disease!="All"){
+               lst <- lst %>% filter(pri %in% input$disease | sec %in% input$disease | ter %in% input$disease | quar %in% input$disease | quin %in% input$disease | sen %in% input$disease | sep %in% input$disease | oct %in% input$disease) 
+          }
+          
 
           lst <- lst %>% filter(age>=input$Age[1] & age<=input$Age[2]) 
      })
@@ -163,6 +194,29 @@ server <- function(input, output, session) {
                       yaxis = list(title="Response"))
      })  
      
+    output$plot2 <- renderPlotly({
+    lst <- pre(data)
+    
+    
+    if(!("All" %in% input$disease)){
+      lst <- lst %>% filter(pri %in% input$disease | sec %in% input$disease | ter %in% input$disease | quar %in% input$disease | quin %in% input$disease | sen %in% input$disease | sep %in% input$disease | oct %in% input$disease)
+    }
+    
+    # d2 <- osmi %>% filter(What.country.do.you.live.in == "United States of America")
+    
+    # if(!("All" %in% input$disease)){
+    #   d2 <- d2 %>% filter(If.so..what.conditions.were.you.diagnosed.with %in% input$disease)
+    # }
+
+    p <- ggplot(lst, aes(x=combined, y=What.is.your.age, fill=combined)) + 
+      geom_boxplot() + coord_flip() + theme_bw() + theme(legend.position = "none") +
+      xlab("Disease") + ylab("Age")
+    ggplotly(p)
+
+  })
+
+  
+  
      output$question <- renderPrint({
           print(q_list$Question)
      })
